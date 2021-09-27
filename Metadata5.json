@@ -71,12 +71,12 @@
             "name" : "Xavier Matthees",
             "contractYear" : "3"
           },
-          "name" : “Oregon”,
-          "state" : “Oregon”
+          "name" : "Oregon",
+          "state" : "Oregon"
         },
         {
-          "abbreviation" : “STAN”,
-          "prestige" : “85”,
+          "abbreviation" : "STAN",
+          "prestige" : "85",
           "hexColor" : "#B33A4E",
           "rivalryNames" : {
 
@@ -96,7 +96,7 @@
             "contractYear" : "0"
           },
           "rival" : [
-            “CAL”
+            "CAL"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
@@ -127,12 +127,12 @@
             "name" : "Marvin Bennefield",
             "contractYear" : "1"
           },
-          "name" : “Stanford”,
-          "state" : “California”
+          "name" : "Stanford",
+          "state" : "California"
         },
         {
-          "abbreviation" : “USC”,
-          "prestige" : “90”,
+          "abbreviation" : "USC",
+          "prestige" : "90",
           "hexColor" : "#AA976C",
           "rivalryNames" : {
 
@@ -152,7 +152,7 @@
             "contractYear" : "1"
           },
           "rival" : [
-            “UCLA”
+            "UCLA"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
