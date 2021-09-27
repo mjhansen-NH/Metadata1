@@ -16,8 +16,7 @@
     "SWC" : "MWC"
   },
   "conferences" : [
-    {
-      "confTeams" : [
+ 
     {
       "confTeams" : [
         {
@@ -1719,6 +1718,8 @@
       "confPrestige" : "85",
       "confName" : "BIG10"
     },
+       {
+      "confTeams" : [
                 {
           "abbreviation" : "ORE",
           "prestige" : "90",
