@@ -18,571 +18,6 @@
   "conferences" : [
     {
       "confTeams" : [
-        {
-          "abbreviation" : "ORE",
-          "prestige" : "90",
-          "hexColor" : "#F47321",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "41",
-            "cumulativePrestige" : "0",
-            "homeState" : "Louisiana",
-            "ratPot" : "80",
-            "hometown" : "Mansfield",
-            "ratTalent" : "54",
-            "baselinePrestige" : "95",
-            "coachingAbility" : "77",
-            "name" : "Zack Fitzpatrick",
-            "contractYear" : "2"
-          },
-          "rival" : [
-            "ORST"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "45",
-            "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "94",
-            "hometown" : "Raymond",
-            "ratTalent" : "64",
-            "baselinePrestige" : "95",
-            "coachingAbility" : "71",
-            "name" : "Kurt Sheskey",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "46",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "71",
-            "homeState" : "Maine",
-            "ratPot" : "81",
-            "hometown" : "Eliot",
-            "ratTalent" : "58",
-            "baselinePrestige" : "95",
-            "name" : "Xavier Matthees",
-            "contractYear" : "3"
-          },
-          "name" : "Oregon",
-          "state" : "Oregon"
-        },
-        {
-          "abbreviation" : "STAN",
-          "prestige" : "85",
-          "hexColor" : "#B33A4E",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "42",
-            "cumulativePrestige" : "0",
-            "homeState" : "New Mexico",
-            "ratPot" : "71",
-            "hometown" : "Red River",
-            "ratTalent" : "77",
-            "baselinePrestige" : "90",
-            "coachingAbility" : "81",
-            "name" : "Terrence Dille",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "CAL"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "37",
-            "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "60",
-            "hometown" : "Bellaire",
-            "ratTalent" : "81",
-            "baselinePrestige" : "90",
-            "coachingAbility" : "83",
-            "name" : "Shane Kueker",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "53",
-            "ratOff" : "67",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "homeState" : "Maine",
-            "ratPot" : "76",
-            "hometown" : "North Bridgton",
-            "ratTalent" : "92",
-            "baselinePrestige" : "90",
-            "name" : "Marvin Bennefield",
-            "contractYear" : "1"
-          },
-          "name" : "Stanford",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "USC",
-          "prestige" : "90",
-          "hexColor" : "#AA976C",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "54",
-            "cumulativePrestige" : "0",
-            "homeState" : "Oklahoma",
-            "ratPot" : "65",
-            "hometown" : "Watonga",
-            "ratTalent" : "66",
-            "baselinePrestige" : "85",
-            "coachingAbility" : "85",
-            "name" : "Andre Strayer",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "UCLA"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "59",
-            "cumulativePrestige" : "0",
-            "homeState" : "Indiana",
-            "ratPot" : "76",
-            "hometown" : "Milroy",
-            "ratTalent" : "51",
-            "baselinePrestige" : "85",
-            "coachingAbility" : "65",
-            "name" : "Frankie Ionescu",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "48",
-            "ratOff" : "71",
-            "cumulativePrestige" : "0",
-            "ratDef" : "77",
-            "homeState" : "Nevada",
-            "ratPot" : "52",
-            "hometown" : "Spring Valley",
-            "ratTalent" : "88",
-            "baselinePrestige" : "85",
-            "name" : "Sidney Loften",
-            "contractYear" : "5"
-          },
-          "name" : "Southern California",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "WASH",
-          "prestige" : "80",
-          "hexColor" : "#006B54",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "40",
-            "cumulativePrestige" : "0",
-            "homeState" : "Colorado",
-            "ratPot" : "96",
-            "hometown" : "Fort Carson",
-            "ratTalent" : "58",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "79",
-            "name" : "Tristan Martine",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "WSU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "35",
-            "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "97",
-            "hometown" : "June Lake",
-            "ratTalent" : "87",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "73",
-            "name" : "Sidney Kindler",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "53",
-            "ratOff" : "74",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Indiana",
-            "ratPot" : "66",
-            "hometown" : "English",
-            "ratTalent" : "80",
-            "baselinePrestige" : "80",
-            "name" : "Byron Gerrero",
-            "contractYear" : "2"
-          },
-          "name" : "Washington",
-          "state" : "Washington"
-        },
-        {
-          "abbreviation" : "ARIZ",
-          "prestige" : "65",
-          "hexColor" : "#EE2F2B",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "American Samoa",
-            "ratPot" : "58",
-            "hometown" : "A‘oloaufou",
-            "ratTalent" : "46",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "69",
-            "name" : "Neil Antonetti",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ASU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "39",
-            "cumulativePrestige" : "0",
-            "homeState" : "Michigan",
-            "ratPot" : "68",
-            "hometown" : "Montrose",
-            "ratTalent" : "46",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "80",
-            "name" : "Nestor Salam",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "48",
-            "ratOff" : "70",
-            "cumulativePrestige" : "0",
-            "ratDef" : "65",
-            "homeState" : "Arizona",
-            "ratPot" : "67",
-            "hometown" : "Mayer",
-            "ratTalent" : "93",
-            "baselinePrestige" : "75",
-            "name" : "Patrick Eperson",
-            "contractYear" : "5"
-          },
-          "name" : "Arizona",
-          "state" : "Arizona"
-        },
-        {
-          "abbreviation" : "ASU",
-          "prestige" : "70",
-          "hexColor" : "#FF7F27",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "Oregon",
-            "ratPot" : "66",
-            "hometown" : "Falls City",
-            "ratTalent" : "62",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "75",
-            "name" : "Kellen Poch",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ARIZ"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "48",
-            "cumulativePrestige" : "0",
-            "homeState" : "Colorado",
-            "ratPot" : "83",
-            "hometown" : "Leadville",
-            "ratTalent" : "93",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "70",
-            "name" : "Danny Amen",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "32",
-            "ratOff" : "66",
-            "cumulativePrestige" : "0",
-            "ratDef" : "70",
-            "homeState" : "West Virginia",
-            "ratPot" : "52",
-            "hometown" : "Hedgesville",
-            "ratTalent" : "50",
-            "baselinePrestige" : "75",
-            "name" : "Kelly Butterbaugh",
-            "contractYear" : "3"
-          },
-          "name" : "Arizona State",
-          "state" : "Arizona"
-        },
-        {
-          "abbreviation" : "ORST",
-          "prestige" : "60",
-          "hexColor" : "#F5E0B6",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "59",
-            "cumulativePrestige" : "0",
-            "homeState" : "West Virginia",
-            "ratPot" : "79",
-            "hometown" : "White Sulphur Springs",
-            "ratTalent" : "62",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "72",
-            "name" : "Justin Wineinger",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ORE"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "54",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Dakota",
-            "ratPot" : "93",
-            "hometown" : "Ethan",
-            "ratTalent" : "93",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "72",
-            "name" : "Conner Feingold",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "43",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "83",
-            "homeState" : "California",
-            "ratPot" : "94",
-            "hometown" : "Barstow",
-            "ratTalent" : "51",
-            "baselinePrestige" : "70",
-            "name" : "Corey Reseigh",
-            "contractYear" : "4"
-          },
-          "name" : "Oregon State",
-          "state" : "Oregon"
-        },
-        {
-          "abbreviation" : "CAL",
-          "prestige" : "60",
-          "hexColor" : "#FFD700",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "34",
-            "cumulativePrestige" : "0",
-            "homeState" : "Massachusetts",
-            "ratPot" : "98",
-            "hometown" : "Woods Hole",
-            "ratTalent" : "51",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "73",
-            "name" : "Kolton Kovacs",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "STAN"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "45",
-            "cumulativePrestige" : "0",
-            "homeState" : "Pennsylvania",
-            "ratPot" : "95",
-            "hometown" : "Erwinna",
-            "ratTalent" : "68",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "80",
-            "name" : "Barrett Amiri",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "58",
-            "ratOff" : "62",
-            "cumulativePrestige" : "0",
-            "ratDef" : "69",
-            "homeState" : "Oklahoma",
-            "ratPot" : "69",
-            "hometown" : "Blackwell",
-            "ratTalent" : "54",
-            "baselinePrestige" : "65",
-            "name" : "Greg Rosete",
-            "contractYear" : "1"
-          },
-          "name" : "California",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "UCLA",
-          "prestige" : "75",
-          "hexColor" : "#665C50",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "37",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Dakota",
-            "ratPot" : "63",
-            "hometown" : "Worthing",
-            "ratTalent" : "93",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "61",
-            "name" : "Pat Odens",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "USC"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "55",
-            "hometown" : "Moss Landing",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "55",
-            "name" : "Steve Grenke",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "48",
-            "ratOff" : "73",
-            "cumulativePrestige" : "0",
-            "ratDef" : "66",
-            "homeState" : "Missouri",
-            "ratPot" : "56",
-            "hometown" : "Galena",
-            "ratTalent" : "73",
-            "baselinePrestige" : "65",
-            "name" : "Donovan Janack",
-            "contractYear" : "0"
-          },
-          "name" : "UCLA",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "WSU",
-          "prestige" : "60",
-          "hexColor" : "#046546",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "42",
-            "cumulativePrestige" : "0",
-            "homeState" : "Louisiana",
-            "ratPot" : "74",
-            "hometown" : "Harrisonburg",
-            "ratTalent" : "55",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "77",
-            "name" : "Quinn Wowk",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "WASH"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "34",
-            "cumulativePrestige" : "0",
-            "homeState" : "Washington DC",
-            "ratPot" : "79",
-            "hometown" : "Dupont Circle",
-            "ratTalent" : "70",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "58",
-            "name" : "Nik Beckerle",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "32",
-            "ratOff" : "67",
-            "cumulativePrestige" : "0",
-            "ratDef" : "65",
-            "homeState" : "Montana",
-            "ratPot" : "56",
-            "hometown" : "Inverness",
-            "ratTalent" : "60",
-            "baselinePrestige" : "50",
-            "name" : "Kenyon Labrador",
-            "contractYear" : "1"
-          },
-          "name" : "Washington State",
-          "state" : "Washington"
-        }
-      ],
-      "confFullName" : "Pac-10",
-      "confPrestige" : "85",
-      "confName" : "PAC10"
-    },
     {
       "confTeams" : [
         {
@@ -1149,6 +584,573 @@
       "confFullName" : "Atlantic Coast",
       "confPrestige" : "80",
       "confName" : "ACC"
+    },
+        {
+      "confTeams" : [
+        {
+          "abbreviation" : "MIZZ",
+          "prestige" : "70",
+          "hexColor" : "#00573D",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "48",
+            "cumulativePrestige" : "0",
+            "homeState" : "New Jersey",
+            "ratPot" : "60",
+            "hometown" : "Fanwood",
+            "ratTalent" : "88",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "72",
+            "name" : "Chris Spoto",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ISU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "44",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Carolina",
+            "ratPot" : "80",
+            "hometown" : "Clinton",
+            "ratTalent" : "53",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "67",
+            "name" : "Jarod Galban",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "58",
+            "ratOff" : "71",
+            "cumulativePrestige" : "0",
+            "ratDef" : "74",
+            "homeState" : "Maine",
+            "ratPot" : "84",
+            "hometown" : "Freeport",
+            "ratTalent" : "58",
+            "baselinePrestige" : "75",
+            "name" : "Brendan Wessells",
+            "contractYear" : "0"
+          },
+          "name" : "Missouri",
+          "state" : "Missouri"
+        },
+        {
+          "abbreviation" : "NEB",
+          "prestige" : "85",
+          "hexColor" : "#CAB577",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Colorado",
+            "ratPot" : "63",
+            "hometown" : "Wiggins",
+            "ratTalent" : "77",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "71",
+            "name" : "Robert Sugiyama",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "COL"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "58",
+            "cumulativePrestige" : "0",
+            "homeState" : "Michigan",
+            "ratPot" : "51",
+            "hometown" : "Sandusky",
+            "ratTalent" : "76",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "76",
+            "name" : "Billy Sochocki",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "51",
+            "ratOff" : "82",
+            "cumulativePrestige" : "0",
+            "ratDef" : "77",
+            "homeState" : "Vermont",
+            "ratPot" : "52",
+            "hometown" : "Centennial",
+            "ratTalent" : "54",
+            "baselinePrestige" : "75",
+            "name" : "Chip Dollak",
+            "contractYear" : "3"
+          },
+          "name" : "Nebraska",
+          "state" : "Nebraska"
+        },
+        {
+          "abbreviation" : "KSU",
+          "prestige" : "75",
+          "hexColor" : "#FF642A",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "84",
+            "hometown" : "Titusville",
+            "ratTalent" : "77",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "70",
+            "name" : "Jacob Kilgo",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "KU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "33",
+            "cumulativePrestige" : "0",
+            "homeState" : "Iowa",
+            "ratPot" : "55",
+            "hometown" : "Moulton",
+            "ratTalent" : "59",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "62",
+            "name" : "Dalton Hupman",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "53",
+            "ratOff" : "64",
+            "cumulativePrestige" : "0",
+            "ratDef" : "75",
+            "homeState" : "Kentucky",
+            "ratPot" : "64",
+            "hometown" : "Florence",
+            "ratTalent" : "48",
+            "baselinePrestige" : "70",
+            "name" : "Roland Cevallos",
+            "contractYear" : "1"
+          },
+          "name" : "Kansas State",
+          "state" : "Kansas"
+        },
+        {
+          "abbreviation" : "ISU",
+          "prestige" : "75",
+          "hexColor" : "#F77F00",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "54",
+            "cumulativePrestige" : "0",
+            "homeState" : "Utah",
+            "ratPot" : "67",
+            "hometown" : "Spanish Fork",
+            "ratTalent" : "52",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "76",
+            "name" : "Thor Deliberato",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "MIZZ"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "42",
+            "cumulativePrestige" : "0",
+            "homeState" : "California",
+            "ratPot" : "99",
+            "hometown" : "Redwood Valley",
+            "ratTalent" : "54",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "62",
+            "name" : "Michael Romero",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "52",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "60",
+            "homeState" : "American Samoa",
+            "ratPot" : "98",
+            "hometown" : "Matu'u",
+            "ratTalent" : "85",
+            "baselinePrestige" : "70",
+            "name" : "Gerald Hradecky",
+            "contractYear" : "5"
+          },
+          "name" : "Iowa State",
+          "state" : "Iowa"
+        },
+        {
+          "abbreviation" : "COL",
+          "prestige" : "70",
+          "hexColor" : "#998448",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "44",
+            "cumulativePrestige" : "0",
+            "homeState" : "Idaho",
+            "ratPot" : "54",
+            "hometown" : "Athol",
+            "ratTalent" : "49",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "72",
+            "name" : "Jake Leaper",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "NEB"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "56",
+            "cumulativePrestige" : "0",
+            "homeState" : "North Dakota",
+            "ratPot" : "56",
+            "hometown" : "Calvin",
+            "ratTalent" : "50",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "80",
+            "name" : "Gregory Rast",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "45",
+            "ratOff" : "64",
+            "cumulativePrestige" : "0",
+            "ratDef" : "63",
+            "homeState" : "Texas",
+            "ratPot" : "78",
+            "hometown" : "Liberty Hill",
+            "ratTalent" : "65",
+            "baselinePrestige" : "70",
+            "name" : "William Holtsoi",
+            "contractYear" : "2"
+          },
+          "name" : "Colorado",
+          "state" : "Colorado"
+        },
+        {
+          "abbreviation" : "KU",
+          "prestige" : "50",
+          "hexColor" : "#B5BBBD",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "58",
+            "cumulativePrestige" : "0",
+            "homeState" : "West Virginia",
+            "ratPot" : "76",
+            "hometown" : "Inwood",
+            "ratTalent" : "84",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "69",
+            "name" : "Kenneth Satterlund",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "KSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "34",
+            "cumulativePrestige" : "0",
+            "homeState" : "Georgia",
+            "ratPot" : "71",
+            "hometown" : "Georgetown",
+            "ratTalent" : "60",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "76",
+            "name" : "Freddy Capote",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "52",
+            "ratOff" : "63",
+            "cumulativePrestige" : "0",
+            "ratDef" : "52",
+            "homeState" : "Ohio",
+            "ratPot" : "54",
+            "hometown" : "Forest",
+            "ratTalent" : "55",
+            "baselinePrestige" : "65",
+            "name" : "Edmond Gilly",
+            "contractYear" : "4"
+          },
+          "name" : "Kansas",
+          "state" : "Kansas"
+        },
+        {
+          "abbreviation" : "OU",
+          "prestige" : "95",
+          "hexColor" : "#00573D",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "33",
+            "cumulativePrestige" : "0",
+            "homeState" : "Arkansas",
+            "ratPot" : "61",
+            "hometown" : "Mount Pleasant",
+            "ratTalent" : "69",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "64",
+            "name" : "Stan Homola",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "OKST"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "57",
+            "cumulativePrestige" : "0",
+            "homeState" : "Vermont",
+            "ratPot" : "87",
+            "hometown" : "Newbury",
+            "ratTalent" : "57",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "64",
+            "name" : "Lonnie Inbody",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "46",
+            "ratOff" : "69",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Nebraska",
+            "ratPot" : "78",
+            "hometown" : "Hayes Center",
+            "ratTalent" : "88",
+            "baselinePrestige" : "60",
+            "name" : "Darrell Ficker",
+            "contractYear" : "4"
+          },
+          "name" : "Oklahoma",
+          "state" : "Oklahoma"
+        },
+        {
+          "abbreviation" : "OKST",
+          "prestige" : "80",
+          "hexColor" : "#ED1B2E",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "40",
+            "cumulativePrestige" : "0",
+            "homeState" : "Virginia",
+            "ratPot" : "61",
+            "hometown" : "Harrisonburg",
+            "ratTalent" : "45",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "68",
+            "name" : "Jace Obrian",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "OU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "58",
+            "hometown" : "Greater Carrollwood",
+            "ratTalent" : "84",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "60",
+            "name" : "Dirk Aguliar",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "58",
+            "ratOff" : "53",
+            "cumulativePrestige" : "0",
+            "ratDef" : "58",
+            "homeState" : "Minnesota",
+            "ratPot" : "97",
+            "hometown" : "Newfolden",
+            "ratTalent" : "76",
+            "baselinePrestige" : "55",
+            "name" : "Bryson Cambron",
+            "contractYear" : "1"
+          },
+          "name" : "Oklahoma State",
+          "state" : "Oklahoma"
+        },
+        {
+          "abbreviation" : "ND",
+          "prestige" : "90",
+          "hexColor" : "#F5A329",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "59",
+            "cumulativePrestige" : "0",
+            "homeState" : "Oregon",
+            "ratPot" : "58",
+            "hometown" : "Raleigh West",
+            "ratTalent" : "53",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "68",
+            "name" : "Winston Mateos",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "NAVY"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Hawaii",
+            "ratPot" : "74",
+            "hometown" : "Lihue",
+            "ratTalent" : "64",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "58",
+            "name" : "Rashaad Floren",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "35",
+            "ratOff" : "56",
+            "cumulativePrestige" : "0",
+            "ratDef" : "74",
+            "homeState" : "Kentucky",
+            "ratPot" : "51",
+            "hometown" : "Hopkinsville",
+            "ratTalent" : "52",
+            "baselinePrestige" : "50",
+            "name" : "Lester Wilbourn",
+            "contractYear" : "3"
+          },
+          "name" : "Notre Dame",
+          "state" : "Indiana"
+        },
+        {
+          "abbreviation" : "NAVY",
+          "prestige" : "55",
+          "hexColor" : "#A8936B",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "95",
+            "hometown" : "Laurel",
+            "ratTalent" : "93",
+            "baselinePrestige" : "45",
+            "coachingAbility" : "69",
+            "name" : "Cary Leagjeld",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ND"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "46",
+            "cumulativePrestige" : "0",
+            "homeState" : "New Jersey",
+            "ratPot" : "60",
+            "hometown" : "Bridgewater Township",
+            "ratTalent" : "47",
+            "baselinePrestige" : "45",
+            "coachingAbility" : "72",
+            "name" : "Alec Raupp",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "36",
+            "ratOff" : "58",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Kansas",
+            "ratPot" : "89",
+            "hometown" : "Yates Center",
+            "ratTalent" : "58",
+            "baselinePrestige" : "45",
+            "name" : "Ha-Ha Posen",
+            "contractYear" : "1"
+          },
+          "name" : "Navy",
+          "state" : "Maryland"
+        }
+      ],
+      "confFullName" : "Big 8",
+      "confPrestige" : "80",
+      "confName" : "BIG8"
     },
     {
       "confTeams" : [
@@ -1717,123 +1719,513 @@
       "confPrestige" : "85",
       "confName" : "BIG10"
     },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "CONN",
-          "prestige" : "45",
-          "hexColor" : "#C0A000",
+                {
+          "abbreviation" : "ORE",
+          "prestige" : "90",
+          "hexColor" : "#F47321",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
             "contractLength" : "3",
             "startYear" : "2021",
-            "age" : "37",
+            "age" : "41",
             "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "94",
-            "hometown" : "Kneeland",
-            "ratTalent" : "90",
-            "baselinePrestige" : "90",
-            "coachingAbility" : "73",
-            "name" : "Cam Hester",
-            "contractYear" : "1"
+            "homeState" : "Louisiana",
+            "ratPot" : "80",
+            "hometown" : "Mansfield",
+            "ratTalent" : "54",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "77",
+            "name" : "Zack Fitzpatrick",
+            "contractYear" : "2"
           },
           "rival" : [
-            "BC"
+            "ORST"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "45",
+            "cumulativePrestige" : "0",
+            "homeState" : "Ohio",
+            "ratPot" : "94",
+            "hometown" : "Raymond",
+            "ratTalent" : "64",
+            "baselinePrestige" : "95",
+            "coachingAbility" : "71",
+            "name" : "Kurt Sheskey",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "46",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "71",
+            "homeState" : "Maine",
+            "ratPot" : "81",
+            "hometown" : "Eliot",
+            "ratTalent" : "58",
+            "baselinePrestige" : "95",
+            "name" : "Xavier Matthees",
+            "contractYear" : "3"
+          },
+          "name" : "Oregon",
+          "state" : "Oregon"
+        },
+        {
+          "abbreviation" : "STAN",
+          "prestige" : "85",
+          "hexColor" : "#B33A4E",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "42",
+            "cumulativePrestige" : "0",
+            "homeState" : "New Mexico",
+            "ratPot" : "71",
+            "hometown" : "Red River",
+            "ratTalent" : "77",
+            "baselinePrestige" : "90",
+            "coachingAbility" : "81",
+            "name" : "Terrence Dille",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "CAL"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
             "startYear" : "2021",
-            "age" : "57",
+            "age" : "37",
             "cumulativePrestige" : "0",
-            "homeState" : "American Samoa",
-            "ratPot" : "74",
-            "hometown" : "Tagapofu",
-            "ratTalent" : "48",
+            "homeState" : "Ohio",
+            "ratPot" : "60",
+            "hometown" : "Bellaire",
+            "ratTalent" : "81",
             "baselinePrestige" : "90",
-            "coachingAbility" : "66",
-            "name" : "Norbert Vanbrocklin",
+            "coachingAbility" : "83",
+            "name" : "Shane Kueker",
             "contractYear" : "0"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "40",
-            "ratOff" : "77",
+            "age" : "53",
+            "ratOff" : "67",
             "cumulativePrestige" : "0",
-            "ratDef" : "74",
-            "homeState" : "Alabama",
-            "ratPot" : "91",
-            "hometown" : "Bolton",
-            "ratTalent" : "72",
+            "ratDef" : "58",
+            "homeState" : "Maine",
+            "ratPot" : "76",
+            "hometown" : "North Bridgton",
+            "ratTalent" : "92",
             "baselinePrestige" : "90",
-            "name" : "Clifford Cribb",
-            "contractYear" : "0"
+            "name" : "Marvin Bennefield",
+            "contractYear" : "1"
           },
-          "name" : "Connecticut",
-          "state" : "Connecticut"
+          "name" : "Stanford",
+          "state" : "California"
         },
         {
-          "abbreviation" : "PITT",
-          "prestige" : "75",
-          "hexColor" : "#4169E1",
+          "abbreviation" : "USC",
+          "prestige" : "90",
+          "hexColor" : "#AA976C",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
             "contractLength" : "2",
             "startYear" : "2021",
-            "age" : "35",
+            "age" : "54",
             "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "66",
-            "hometown" : "Upper Sandusky",
-            "ratTalent" : "53",
-            "baselinePrestige" : "90",
-            "coachingAbility" : "78",
-            "name" : "Frederick Minkoff",
+            "homeState" : "Oklahoma",
+            "ratPot" : "65",
+            "hometown" : "Watonga",
+            "ratTalent" : "66",
+            "baselinePrestige" : "85",
+            "coachingAbility" : "85",
+            "name" : "Andre Strayer",
             "contractYear" : "1"
           },
           "rival" : [
-            "PSU"
+            "UCLA"
           ],
           "defCoordinator" : {
-            "contractLength" : "2",
+            "contractLength" : "1",
             "startYear" : "2021",
-            "age" : "43",
+            "age" : "59",
             "cumulativePrestige" : "0",
-            "homeState" : "Washington DC",
-            "ratPot" : "55",
-            "hometown" : "Washington",
-            "ratTalent" : "57",
-            "baselinePrestige" : "90",
-            "coachingAbility" : "77",
-            "name" : "Dale Strenge",
+            "homeState" : "Indiana",
+            "ratPot" : "76",
+            "hometown" : "Milroy",
+            "ratTalent" : "51",
+            "baselinePrestige" : "85",
+            "coachingAbility" : "65",
+            "name" : "Frankie Ionescu",
             "contractYear" : "0"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "57",
-            "ratOff" : "80",
+            "age" : "48",
+            "ratOff" : "71",
             "cumulativePrestige" : "0",
-            "ratDef" : "57",
-            "homeState" : "California",
-            "ratPot" : "85",
-            "hometown" : "Stonyford",
-            "ratTalent" : "45",
-            "baselinePrestige" : "90",
-            "name" : "Royce Alicer",
+            "ratDef" : "77",
+            "homeState" : "Nevada",
+            "ratPot" : "52",
+            "hometown" : "Spring Valley",
+            "ratTalent" : "88",
+            "baselinePrestige" : "85",
+            "name" : "Sidney Loften",
             "contractYear" : "5"
           },
-          "name" : "Pittsburgh",
-          "state" : "Pennsylvania"
+          "name" : "Southern California",
+          "state" : "California"
         },
         {
-          "abbreviation" : "WVU",
+          "abbreviation" : "WASH",
+          "prestige" : "80",
+          "hexColor" : "#006B54",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "40",
+            "cumulativePrestige" : "0",
+            "homeState" : "Colorado",
+            "ratPot" : "96",
+            "hometown" : "Fort Carson",
+            "ratTalent" : "58",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "79",
+            "name" : "Tristan Martine",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "WSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "35",
+            "cumulativePrestige" : "0",
+            "homeState" : "California",
+            "ratPot" : "97",
+            "hometown" : "June Lake",
+            "ratTalent" : "87",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "73",
+            "name" : "Sidney Kindler",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "53",
+            "ratOff" : "74",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Indiana",
+            "ratPot" : "66",
+            "hometown" : "English",
+            "ratTalent" : "80",
+            "baselinePrestige" : "80",
+            "name" : "Byron Gerrero",
+            "contractYear" : "2"
+          },
+          "name" : "Washington",
+          "state" : "Washington"
+        },
+        {
+          "abbreviation" : "ARIZ",
+          "prestige" : "65",
+          "hexColor" : "#EE2F2B",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "American Samoa",
+            "ratPot" : "58",
+            "hometown" : "A‘oloaufou",
+            "ratTalent" : "46",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "69",
+            "name" : "Neil Antonetti",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ASU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "39",
+            "cumulativePrestige" : "0",
+            "homeState" : "Michigan",
+            "ratPot" : "68",
+            "hometown" : "Montrose",
+            "ratTalent" : "46",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "80",
+            "name" : "Nestor Salam",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "48",
+            "ratOff" : "70",
+            "cumulativePrestige" : "0",
+            "ratDef" : "65",
+            "homeState" : "Arizona",
+            "ratPot" : "67",
+            "hometown" : "Mayer",
+            "ratTalent" : "93",
+            "baselinePrestige" : "75",
+            "name" : "Patrick Eperson",
+            "contractYear" : "5"
+          },
+          "name" : "Arizona",
+          "state" : "Arizona"
+        },
+        {
+          "abbreviation" : "ASU",
+          "prestige" : "70",
+          "hexColor" : "#FF7F27",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "Oregon",
+            "ratPot" : "66",
+            "hometown" : "Falls City",
+            "ratTalent" : "62",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "75",
+            "name" : "Kellen Poch",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ARIZ"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "48",
+            "cumulativePrestige" : "0",
+            "homeState" : "Colorado",
+            "ratPot" : "83",
+            "hometown" : "Leadville",
+            "ratTalent" : "93",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "70",
+            "name" : "Danny Amen",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "32",
+            "ratOff" : "66",
+            "cumulativePrestige" : "0",
+            "ratDef" : "70",
+            "homeState" : "West Virginia",
+            "ratPot" : "52",
+            "hometown" : "Hedgesville",
+            "ratTalent" : "50",
+            "baselinePrestige" : "75",
+            "name" : "Kelly Butterbaugh",
+            "contractYear" : "3"
+          },
+          "name" : "Arizona State",
+          "state" : "Arizona"
+        },
+        {
+          "abbreviation" : "ORST",
+          "prestige" : "60",
+          "hexColor" : "#F5E0B6",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "59",
+            "cumulativePrestige" : "0",
+            "homeState" : "West Virginia",
+            "ratPot" : "79",
+            "hometown" : "White Sulphur Springs",
+            "ratTalent" : "62",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "72",
+            "name" : "Justin Wineinger",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ORE"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "54",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Dakota",
+            "ratPot" : "93",
+            "hometown" : "Ethan",
+            "ratTalent" : "93",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "72",
+            "name" : "Conner Feingold",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "43",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "83",
+            "homeState" : "California",
+            "ratPot" : "94",
+            "hometown" : "Barstow",
+            "ratTalent" : "51",
+            "baselinePrestige" : "70",
+            "name" : "Corey Reseigh",
+            "contractYear" : "4"
+          },
+          "name" : "Oregon State",
+          "state" : "Oregon"
+        },
+        {
+          "abbreviation" : "CAL",
+          "prestige" : "60",
+          "hexColor" : "#FFD700",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "34",
+            "cumulativePrestige" : "0",
+            "homeState" : "Massachusetts",
+            "ratPot" : "98",
+            "hometown" : "Woods Hole",
+            "ratTalent" : "51",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "73",
+            "name" : "Kolton Kovacs",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "STAN"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "45",
+            "cumulativePrestige" : "0",
+            "homeState" : "Pennsylvania",
+            "ratPot" : "95",
+            "hometown" : "Erwinna",
+            "ratTalent" : "68",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "80",
+            "name" : "Barrett Amiri",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "58",
+            "ratOff" : "62",
+            "cumulativePrestige" : "0",
+            "ratDef" : "69",
+            "homeState" : "Oklahoma",
+            "ratPot" : "69",
+            "hometown" : "Blackwell",
+            "ratTalent" : "54",
+            "baselinePrestige" : "65",
+            "name" : "Greg Rosete",
+            "contractYear" : "1"
+          },
+          "name" : "California",
+          "state" : "California"
+        },
+        {
+          "abbreviation" : "UCLA",
           "prestige" : "75",
+          "hexColor" : "#665C50",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "37",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Dakota",
+            "ratPot" : "63",
+            "hometown" : "Worthing",
+            "ratTalent" : "93",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "61",
+            "name" : "Pat Odens",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "USC"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "California",
+            "ratPot" : "55",
+            "hometown" : "Moss Landing",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "55",
+            "name" : "Steve Grenke",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "48",
+            "ratOff" : "73",
+            "cumulativePrestige" : "0",
+            "ratDef" : "66",
+            "homeState" : "Missouri",
+            "ratPot" : "56",
+            "hometown" : "Galena",
+            "ratTalent" : "73",
+            "baselinePrestige" : "65",
+            "name" : "Donovan Janack",
+            "contractYear" : "0"
+          },
+          "name" : "UCLA",
+          "state" : "California"
+        },
+        {
+          "abbreviation" : "WSU",
+          "prestige" : "60",
           "hexColor" : "#046546",
           "rivalryNames" : {
 
@@ -1841,201 +2233,33 @@
           "offCoordinator" : {
             "contractLength" : "1",
             "startYear" : "2021",
-            "age" : "39",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "93",
-            "hometown" : "Sugarloaf Shores",
-            "ratTalent" : "63",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "81",
-            "name" : "Leon Nealeigh",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "VT"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "51",
-            "cumulativePrestige" : "0",
-            "homeState" : "Washington",
-            "ratPot" : "96",
-            "hometown" : "Asotin",
-            "ratTalent" : "87",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "74",
-            "name" : "Grayson Sisto",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "50",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "homeState" : "Utah",
-            "ratPot" : "79",
-            "hometown" : "Farr West",
-            "ratTalent" : "50",
-            "baselinePrestige" : "80",
-            "name" : "RJ Lundy",
-            "contractYear" : "4"
-          },
-          "name" : "West Virginia",
-          "state" : "West Virginia"
-        },
-        {
-          "abbreviation" : "SYR",
-          "prestige" : "65",
-          "hexColor" : "#0097D8",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
             "age" : "42",
             "cumulativePrestige" : "0",
-            "homeState" : "Hawaii",
-            "ratPot" : "68",
-            "hometown" : "Wailuku",
-            "ratTalent" : "68",
-            "baselinePrestige" : "80",
+            "homeState" : "Louisiana",
+            "ratPot" : "74",
+            "hometown" : "Harrisonburg",
+            "ratTalent" : "55",
+            "baselinePrestige" : "50",
             "coachingAbility" : "77",
-            "name" : "Jordan McElwaine",
+            "name" : "Quinn Wowk",
             "contractYear" : "0"
           },
           "rival" : [
-            "RUT"
+            "WASH"
           ],
           "defCoordinator" : {
             "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "District of Columbia",
-            "ratPot" : "92",
-            "hometown" : "Georgetown",
-            "ratTalent" : "74",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "70",
-            "name" : "Eddie Reese",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "40",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "63",
-            "homeState" : "North Dakota",
-            "ratPot" : "72",
-            "hometown" : "Carson",
-            "ratTalent" : "83",
-            "baselinePrestige" : "80",
-            "name" : "Jens Balonek",
-            "contractYear" : "4"
-          },
-          "name" : "Syracuse",
-          "state" : "New York"
-        },
-        {
-          "abbreviation" : "LOU",
-          "prestige" : "75",
-          "hexColor" : "#FFCC13",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "44",
-            "cumulativePrestige" : "0",
-            "homeState" : "Montana",
-            "ratPot" : "76",
-            "hometown" : "Circle",
-            "ratTalent" : "91",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "67",
-            "name" : "Kyle Curi",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "CIN"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "47",
-            "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "52",
-            "hometown" : "Lakewood",
-            "ratTalent" : "74",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "77",
-            "name" : "Brady Korte",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
             "startYear" : "2021",
             "age" : "34",
-            "ratOff" : "56",
             "cumulativePrestige" : "0",
-            "ratDef" : "69",
-            "homeState" : "New Jersey",
-            "ratPot" : "56",
-            "hometown" : "Dayton",
-            "ratTalent" : "94",
-            "baselinePrestige" : "70",
-            "name" : "Jakobi Gwinner",
-            "contractYear" : "1"
-          },
-          "name" : "Louisville",
-          "state" : "Kentucky"
-        },
-        {
-          "abbreviation" : "CIN",
-          "prestige" : "65",
-          "hexColor" : "#F0E8C4",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "50",
-            "cumulativePrestige" : "0",
-            "homeState" : "Iowa",
-            "ratPot" : "60",
-            "hometown" : "Onawa",
-            "ratTalent" : "94",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "62",
-            "name" : "Albert Powell",
+            "homeState" : "Washington DC",
+            "ratPot" : "79",
+            "hometown" : "Dupont Circle",
+            "ratTalent" : "70",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "58",
+            "name" : "Nik Beckerle",
             "contractYear" : "0"
-          },
-          "rival" : [
-            "LOU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "42",
-            "cumulativePrestige" : "0",
-            "homeState" : "Maine",
-            "ratPot" : "52",
-            "hometown" : "Lincoln",
-            "ratTalent" : "57",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "75",
-            "name" : "Chaz Keliipio",
-            "contractYear" : "1"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -2043,246 +2267,22 @@
             "age" : "32",
             "ratOff" : "67",
             "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Pennsylvania",
-            "ratPot" : "80",
-            "hometown" : "Monessen",
-            "ratTalent" : "79",
-            "baselinePrestige" : "70",
-            "name" : "Davon Sakurai",
-            "contractYear" : "4"
-          },
-          "name" : "Cincinnati",
-          "state" : "Ohio"
-        },
-        {
-          "abbreviation" : "RUT",
-          "prestige" : "50",
-          "hexColor" : "#336698",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "New Hampshire",
-            "ratPot" : "65",
-            "hometown" : "Carroll",
-            "ratTalent" : "81",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "65",
-            "name" : "Carlos Zecher",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "SYR"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "56",
-            "cumulativePrestige" : "0",
-            "homeState" : "Arkansas",
-            "ratPot" : "83",
-            "hometown" : "Norman",
-            "ratTalent" : "62",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "71",
-            "name" : "Cartwright Gasco",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "32",
-            "ratOff" : "66",
-            "cumulativePrestige" : "0",
-            "ratDef" : "56",
+            "ratDef" : "65",
             "homeState" : "Montana",
-            "ratPot" : "91",
-            "hometown" : "Three Forks",
-            "ratTalent" : "87",
-            "baselinePrestige" : "60",
-            "name" : "Barrett Scheuerman",
+            "ratPot" : "56",
+            "hometown" : "Inverness",
+            "ratTalent" : "60",
+            "baselinePrestige" : "50",
+            "name" : "Kenyon Labrador",
             "contractYear" : "1"
           },
-          "name" : "Rutgers",
-          "state" : "New Jersey"
-        },
-        {
-          "abbreviation" : "BC",
-          "prestige" : "70",
-          "hexColor" : "#FFDE00",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "43",
-            "cumulativePrestige" : "0",
-            "homeState" : "Mississippi",
-            "ratPot" : "99",
-            "hometown" : "Elliott",
-            "ratTalent" : "59",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "71",
-            "name" : "Isaiah Vannatta",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "CONN"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "93",
-            "hometown" : "Satellite Beach",
-            "ratTalent" : "61",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "69",
-            "name" : "Ron Fama",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "43",
-            "ratOff" : "66",
-            "cumulativePrestige" : "0",
-            "ratDef" : "61",
-            "homeState" : "Alabama",
-            "ratPot" : "87",
-            "hometown" : "Five Points South",
-            "ratTalent" : "70",
-            "baselinePrestige" : "60",
-            "name" : "Matthew Logalbo",
-            "contractYear" : "5"
-          },
-          "name" : "Boston College",
-          "state" : "Massachussetts"
-        },
-        {
-          "abbreviation" : "VT",
-          "prestige" : "80",
-          "hexColor" : "#633194",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "58",
-            "cumulativePrestige" : "0",
-            "homeState" : "Nevada",
-            "ratPot" : "61",
-            "hometown" : "Johnson Lane",
-            "ratTalent" : "94",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "63",
-            "name" : "Tariq Genas",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "WVU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "44",
-            "cumulativePrestige" : "0",
-            "homeState" : "Michigan",
-            "ratPot" : "95",
-            "hometown" : "Flat Rock",
-            "ratTalent" : "70",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "63",
-            "name" : "Andy Stansbery",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "57",
-            "ratOff" : "60",
-            "cumulativePrestige" : "0",
-            "ratDef" : "65",
-            "homeState" : "Arizona",
-            "ratPot" : "51",
-            "hometown" : "Saint Michaels",
-            "ratTalent" : "77",
-            "baselinePrestige" : "55",
-            "name" : "Joseph Lauschus",
-            "contractYear" : "2"
-          },
-          "name" : "Virginia Tech",
-          "state" : "Virginia"
-        },
-        {
-          "abbreviation" : "PSU",
-          "prestige" : "90",
-          "hexColor" : "#007CC4",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "Nebraska",
-            "ratPot" : "62",
-            "hometown" : "Fort Calhoun",
-            "ratTalent" : "56",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "68",
-            "name" : "Donny McMeans",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "PITT"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "32",
-            "cumulativePrestige" : "0",
-            "homeState" : "New York",
-            "ratPot" : "88",
-            "hometown" : "Brinckerhoff",
-            "ratTalent" : "55",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "64",
-            "name" : "Jeremiah Dudash",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "47",
-            "ratOff" : "69",
-            "cumulativePrestige" : "0",
-            "ratDef" : "65",
-            "homeState" : "Idaho",
-            "ratPot" : "78",
-            "hometown" : "Priest River",
-            "ratTalent" : "89",
-            "baselinePrestige" : "50",
-            "name" : "Rob Schuchat",
-            "contractYear" : "4"
-          },
-          "name" : "Penn State",
-          "state" : "Pennsylvania"
+          "name" : "Washington State",
+          "state" : "Washington"
         }
       ],
-      "confFullName" : "Big East",
-      "confPrestige" : "75",
-      "confName" : "BIGE"
+      "confFullName" : "Pac-10",
+      "confPrestige" : "85",
+      "confName" : "PAC10"
     },
     {
       "confTeams" : [
@@ -3418,1140 +3418,575 @@
       "confPrestige" : "75",
       "confName" : "SWC"
     },
-    {
+
+      {
       "confTeams" : [
         {
-          "abbreviation" : "MIZZ",
-          "prestige" : "70",
-          "hexColor" : "#00573D",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "48",
-            "cumulativePrestige" : "0",
-            "homeState" : "New Jersey",
-            "ratPot" : "60",
-            "hometown" : "Fanwood",
-            "ratTalent" : "88",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "72",
-            "name" : "Chris Spoto",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ISU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "44",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Carolina",
-            "ratPot" : "80",
-            "hometown" : "Clinton",
-            "ratTalent" : "53",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "67",
-            "name" : "Jarod Galban",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "58",
-            "ratOff" : "71",
-            "cumulativePrestige" : "0",
-            "ratDef" : "74",
-            "homeState" : "Maine",
-            "ratPot" : "84",
-            "hometown" : "Freeport",
-            "ratTalent" : "58",
-            "baselinePrestige" : "75",
-            "name" : "Brendan Wessells",
-            "contractYear" : "0"
-          },
-          "name" : "Missouri",
-          "state" : "Missouri"
-        },
-        {
-          "abbreviation" : "NEB",
-          "prestige" : "85",
-          "hexColor" : "#CAB577",
+          "abbreviation" : "CONN",
+          "prestige" : "45",
+          "hexColor" : "#C0A000",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
             "contractLength" : "3",
             "startYear" : "2021",
-            "age" : "49",
+            "age" : "37",
             "cumulativePrestige" : "0",
-            "homeState" : "Colorado",
-            "ratPot" : "63",
-            "hometown" : "Wiggins",
-            "ratTalent" : "77",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "71",
-            "name" : "Robert Sugiyama",
+            "homeState" : "California",
+            "ratPot" : "94",
+            "hometown" : "Kneeland",
+            "ratTalent" : "90",
+            "baselinePrestige" : "90",
+            "coachingAbility" : "73",
+            "name" : "Cam Hester",
             "contractYear" : "1"
           },
           "rival" : [
-            "COL"
+            "BC"
           ],
           "defCoordinator" : {
-            "contractLength" : "2",
+            "contractLength" : "1",
             "startYear" : "2021",
-            "age" : "58",
+            "age" : "57",
             "cumulativePrestige" : "0",
-            "homeState" : "Michigan",
-            "ratPot" : "51",
-            "hometown" : "Sandusky",
-            "ratTalent" : "76",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "76",
-            "name" : "Billy Sochocki",
+            "homeState" : "American Samoa",
+            "ratPot" : "74",
+            "hometown" : "Tagapofu",
+            "ratTalent" : "48",
+            "baselinePrestige" : "90",
+            "coachingAbility" : "66",
+            "name" : "Norbert Vanbrocklin",
             "contractYear" : "0"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "51",
-            "ratOff" : "82",
+            "age" : "40",
+            "ratOff" : "77",
             "cumulativePrestige" : "0",
-            "ratDef" : "77",
-            "homeState" : "Vermont",
-            "ratPot" : "52",
-            "hometown" : "Centennial",
-            "ratTalent" : "54",
-            "baselinePrestige" : "75",
-            "name" : "Chip Dollak",
-            "contractYear" : "3"
+            "ratDef" : "74",
+            "homeState" : "Alabama",
+            "ratPot" : "91",
+            "hometown" : "Bolton",
+            "ratTalent" : "72",
+            "baselinePrestige" : "90",
+            "name" : "Clifford Cribb",
+            "contractYear" : "0"
           },
-          "name" : "Nebraska",
-          "state" : "Nebraska"
+          "name" : "Connecticut",
+          "state" : "Connecticut"
         },
         {
-          "abbreviation" : "KSU",
+          "abbreviation" : "PITT",
           "prestige" : "75",
-          "hexColor" : "#FF642A",
+          "hexColor" : "#4169E1",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
             "contractLength" : "2",
             "startYear" : "2021",
-            "age" : "52",
+            "age" : "35",
+            "cumulativePrestige" : "0",
+            "homeState" : "Ohio",
+            "ratPot" : "66",
+            "hometown" : "Upper Sandusky",
+            "ratTalent" : "53",
+            "baselinePrestige" : "90",
+            "coachingAbility" : "78",
+            "name" : "Frederick Minkoff",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "PSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "43",
+            "cumulativePrestige" : "0",
+            "homeState" : "Washington DC",
+            "ratPot" : "55",
+            "hometown" : "Washington",
+            "ratTalent" : "57",
+            "baselinePrestige" : "90",
+            "coachingAbility" : "77",
+            "name" : "Dale Strenge",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "57",
+            "ratOff" : "80",
+            "cumulativePrestige" : "0",
+            "ratDef" : "57",
+            "homeState" : "California",
+            "ratPot" : "85",
+            "hometown" : "Stonyford",
+            "ratTalent" : "45",
+            "baselinePrestige" : "90",
+            "name" : "Royce Alicer",
+            "contractYear" : "5"
+          },
+          "name" : "Pittsburgh",
+          "state" : "Pennsylvania"
+        },
+        {
+          "abbreviation" : "WVU",
+          "prestige" : "75",
+          "hexColor" : "#046546",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "39",
             "cumulativePrestige" : "0",
             "homeState" : "Florida",
-            "ratPot" : "84",
-            "hometown" : "Titusville",
-            "ratTalent" : "77",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "70",
-            "name" : "Jacob Kilgo",
-            "contractYear" : "1"
+            "ratPot" : "93",
+            "hometown" : "Sugarloaf Shores",
+            "ratTalent" : "63",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "81",
+            "name" : "Leon Nealeigh",
+            "contractYear" : "0"
           },
           "rival" : [
-            "KU"
+            "VT"
           ],
           "defCoordinator" : {
-            "contractLength" : "1",
+            "contractLength" : "2",
             "startYear" : "2021",
-            "age" : "33",
+            "age" : "51",
             "cumulativePrestige" : "0",
-            "homeState" : "Iowa",
-            "ratPot" : "55",
-            "hometown" : "Moulton",
-            "ratTalent" : "59",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "62",
-            "name" : "Dalton Hupman",
+            "homeState" : "Washington",
+            "ratPot" : "96",
+            "hometown" : "Asotin",
+            "ratTalent" : "87",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "74",
+            "name" : "Grayson Sisto",
             "contractYear" : "0"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "53",
-            "ratOff" : "64",
+            "age" : "50",
+            "ratOff" : "65",
             "cumulativePrestige" : "0",
-            "ratDef" : "75",
-            "homeState" : "Kentucky",
-            "ratPot" : "64",
-            "hometown" : "Florence",
-            "ratTalent" : "48",
-            "baselinePrestige" : "70",
-            "name" : "Roland Cevallos",
-            "contractYear" : "1"
+            "ratDef" : "60",
+            "homeState" : "Utah",
+            "ratPot" : "79",
+            "hometown" : "Farr West",
+            "ratTalent" : "50",
+            "baselinePrestige" : "80",
+            "name" : "RJ Lundy",
+            "contractYear" : "4"
           },
-          "name" : "Kansas State",
-          "state" : "Kansas"
+          "name" : "West Virginia",
+          "state" : "West Virginia"
         },
         {
-          "abbreviation" : "ISU",
-          "prestige" : "75",
-          "hexColor" : "#F77F00",
+          "abbreviation" : "SYR",
+          "prestige" : "65",
+          "hexColor" : "#0097D8",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "54",
-            "cumulativePrestige" : "0",
-            "homeState" : "Utah",
-            "ratPot" : "67",
-            "hometown" : "Spanish Fork",
-            "ratTalent" : "52",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "76",
-            "name" : "Thor Deliberato",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "MIZZ"
-          ],
-          "defCoordinator" : {
             "contractLength" : "1",
             "startYear" : "2021",
             "age" : "42",
             "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "99",
-            "hometown" : "Redwood Valley",
-            "ratTalent" : "54",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "62",
-            "name" : "Michael Romero",
+            "homeState" : "Hawaii",
+            "ratPot" : "68",
+            "hometown" : "Wailuku",
+            "ratTalent" : "68",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "77",
+            "name" : "Jordan McElwaine",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "RUT"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "District of Columbia",
+            "ratPot" : "92",
+            "hometown" : "Georgetown",
+            "ratTalent" : "74",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "70",
+            "name" : "Eddie Reese",
             "contractYear" : "0"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "52",
+            "age" : "40",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "homeState" : "American Samoa",
-            "ratPot" : "98",
-            "hometown" : "Matu'u",
-            "ratTalent" : "85",
-            "baselinePrestige" : "70",
-            "name" : "Gerald Hradecky",
-            "contractYear" : "5"
+            "ratDef" : "63",
+            "homeState" : "North Dakota",
+            "ratPot" : "72",
+            "hometown" : "Carson",
+            "ratTalent" : "83",
+            "baselinePrestige" : "80",
+            "name" : "Jens Balonek",
+            "contractYear" : "4"
           },
-          "name" : "Iowa State",
-          "state" : "Iowa"
+          "name" : "Syracuse",
+          "state" : "New York"
         },
         {
-          "abbreviation" : "COL",
-          "prestige" : "70",
-          "hexColor" : "#998448",
+          "abbreviation" : "LOU",
+          "prestige" : "75",
+          "hexColor" : "#FFCC13",
           "rivalryNames" : {
 
           },
           "offCoordinator" : {
-            "contractLength" : "1",
+            "contractLength" : "2",
             "startYear" : "2021",
             "age" : "44",
             "cumulativePrestige" : "0",
-            "homeState" : "Idaho",
-            "ratPot" : "54",
-            "hometown" : "Athol",
-            "ratTalent" : "49",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "72",
-            "name" : "Jake Leaper",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "NEB"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "56",
-            "cumulativePrestige" : "0",
-            "homeState" : "North Dakota",
-            "ratPot" : "56",
-            "hometown" : "Calvin",
-            "ratTalent" : "50",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "80",
-            "name" : "Gregory Rast",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "45",
-            "ratOff" : "64",
-            "cumulativePrestige" : "0",
-            "ratDef" : "63",
-            "homeState" : "Texas",
-            "ratPot" : "78",
-            "hometown" : "Liberty Hill",
-            "ratTalent" : "65",
-            "baselinePrestige" : "70",
-            "name" : "William Holtsoi",
-            "contractYear" : "2"
-          },
-          "name" : "Colorado",
-          "state" : "Colorado"
-        },
-        {
-          "abbreviation" : "KU",
-          "prestige" : "50",
-          "hexColor" : "#B5BBBD",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "58",
-            "cumulativePrestige" : "0",
-            "homeState" : "West Virginia",
+            "homeState" : "Montana",
             "ratPot" : "76",
-            "hometown" : "Inwood",
-            "ratTalent" : "84",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "69",
-            "name" : "Kenneth Satterlund",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "KSU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "34",
-            "cumulativePrestige" : "0",
-            "homeState" : "Georgia",
-            "ratPot" : "71",
-            "hometown" : "Georgetown",
-            "ratTalent" : "60",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "76",
-            "name" : "Freddy Capote",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "52",
-            "ratOff" : "63",
-            "cumulativePrestige" : "0",
-            "ratDef" : "52",
-            "homeState" : "Ohio",
-            "ratPot" : "54",
-            "hometown" : "Forest",
-            "ratTalent" : "55",
-            "baselinePrestige" : "65",
-            "name" : "Edmond Gilly",
-            "contractYear" : "4"
-          },
-          "name" : "Kansas",
-          "state" : "Kansas"
-        },
-        {
-          "abbreviation" : "OU",
-          "prestige" : "95",
-          "hexColor" : "#00573D",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "33",
-            "cumulativePrestige" : "0",
-            "homeState" : "Arkansas",
-            "ratPot" : "61",
-            "hometown" : "Mount Pleasant",
-            "ratTalent" : "69",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "64",
-            "name" : "Stan Homola",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "OKST"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "57",
-            "cumulativePrestige" : "0",
-            "homeState" : "Vermont",
-            "ratPot" : "87",
-            "hometown" : "Newbury",
-            "ratTalent" : "57",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "64",
-            "name" : "Lonnie Inbody",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "46",
-            "ratOff" : "69",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Nebraska",
-            "ratPot" : "78",
-            "hometown" : "Hayes Center",
-            "ratTalent" : "88",
-            "baselinePrestige" : "60",
-            "name" : "Darrell Ficker",
-            "contractYear" : "4"
-          },
-          "name" : "Oklahoma",
-          "state" : "Oklahoma"
-        },
-        {
-          "abbreviation" : "OKST",
-          "prestige" : "80",
-          "hexColor" : "#ED1B2E",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "40",
-            "cumulativePrestige" : "0",
-            "homeState" : "Virginia",
-            "ratPot" : "61",
-            "hometown" : "Harrisonburg",
-            "ratTalent" : "45",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "68",
-            "name" : "Jace Obrian",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "OU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "58",
-            "hometown" : "Greater Carrollwood",
-            "ratTalent" : "84",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "60",
-            "name" : "Dirk Aguliar",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "58",
-            "ratOff" : "53",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "homeState" : "Minnesota",
-            "ratPot" : "97",
-            "hometown" : "Newfolden",
-            "ratTalent" : "76",
-            "baselinePrestige" : "55",
-            "name" : "Bryson Cambron",
-            "contractYear" : "1"
-          },
-          "name" : "Oklahoma State",
-          "state" : "Oklahoma"
-        },
-        {
-          "abbreviation" : "ND",
-          "prestige" : "90",
-          "hexColor" : "#F5A329",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "59",
-            "cumulativePrestige" : "0",
-            "homeState" : "Oregon",
-            "ratPot" : "58",
-            "hometown" : "Raleigh West",
-            "ratTalent" : "53",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "68",
-            "name" : "Winston Mateos",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "NAVY"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "49",
-            "cumulativePrestige" : "0",
-            "homeState" : "Hawaii",
-            "ratPot" : "74",
-            "hometown" : "Lihue",
-            "ratTalent" : "64",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "58",
-            "name" : "Rashaad Floren",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "35",
-            "ratOff" : "56",
-            "cumulativePrestige" : "0",
-            "ratDef" : "74",
-            "homeState" : "Kentucky",
-            "ratPot" : "51",
-            "hometown" : "Hopkinsville",
-            "ratTalent" : "52",
-            "baselinePrestige" : "50",
-            "name" : "Lester Wilbourn",
-            "contractYear" : "3"
-          },
-          "name" : "Notre Dame",
-          "state" : "Indiana"
-        },
-        {
-          "abbreviation" : "NAVY",
-          "prestige" : "55",
-          "hexColor" : "#A8936B",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "49",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "95",
-            "hometown" : "Laurel",
-            "ratTalent" : "93",
-            "baselinePrestige" : "45",
-            "coachingAbility" : "69",
-            "name" : "Cary Leagjeld",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ND"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "46",
-            "cumulativePrestige" : "0",
-            "homeState" : "New Jersey",
-            "ratPot" : "60",
-            "hometown" : "Bridgewater Township",
-            "ratTalent" : "47",
-            "baselinePrestige" : "45",
-            "coachingAbility" : "72",
-            "name" : "Alec Raupp",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "36",
-            "ratOff" : "58",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Kansas",
-            "ratPot" : "89",
-            "hometown" : "Yates Center",
-            "ratTalent" : "58",
-            "baselinePrestige" : "45",
-            "name" : "Ha-Ha Posen",
-            "contractYear" : "1"
-          },
-          "name" : "Navy",
-          "state" : "Maryland"
-        }
-      ],
-      "confFullName" : "Big 8",
-      "confPrestige" : "80",
-      "confName" : "BIG8"
-    },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "UTAH",
-          "prestige" : "80",
-          "hexColor" : "#744143",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "41",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Carolina",
-            "ratPot" : "60",
-            "hometown" : "North Myrtle Beach",
-            "ratTalent" : "47",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "74",
-            "name" : "DJ Fothergill",
+            "hometown" : "Circle",
+            "ratTalent" : "91",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "67",
+            "name" : "Kyle Curi",
             "contractYear" : "1"
           },
           "rival" : [
-            "BYU"
+            "CIN"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
             "startYear" : "2021",
             "age" : "47",
             "cumulativePrestige" : "0",
-            "homeState" : "Georgia",
-            "ratPot" : "50",
-            "hometown" : "Clarkston",
-            "ratTalent" : "83",
-            "baselinePrestige" : "80",
-            "coachingAbility" : "71",
-            "name" : "Devin Barnum",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "45",
-            "ratOff" : "67",
-            "cumulativePrestige" : "0",
-            "ratDef" : "64",
-            "homeState" : "West Virginia",
-            "ratPot" : "91",
-            "hometown" : "Institute",
-            "ratTalent" : "46",
-            "baselinePrestige" : "80",
-            "name" : "Danny Callas",
-            "contractYear" : "2"
-          },
-          "name" : "Utah",
-          "state" : "Utah"
-        },
-        {
-          "abbreviation" : "AF",
-          "prestige" : "70",
-          "hexColor" : "#FDC82F",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "Massachusetts",
-            "ratPot" : "73",
-            "hometown" : "Banks Square",
-            "ratTalent" : "66",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "71",
-            "name" : "DJuan Vanhoose",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "CSU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "58",
-            "cumulativePrestige" : "0",
-            "homeState" : "Virginia",
-            "ratPot" : "70",
-            "hometown" : "Montclair",
-            "ratTalent" : "68",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "69",
-            "name" : "William Clarke",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "51",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "75",
-            "homeState" : "Mississippi",
-            "ratPot" : "72",
-            "hometown" : "New Albany",
-            "ratTalent" : "87",
-            "baselinePrestige" : "75",
-            "name" : "Kai Bargo",
-            "contractYear" : "5"
-          },
-          "name" : "Air Force",
-          "state" : "Colorado"
-        },
-        {
-          "abbreviation" : "SDSU",
-          "prestige" : "75",
-          "hexColor" : "#006000",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "48",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "74",
-            "hometown" : "Warrington",
-            "ratTalent" : "81",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "72",
-            "name" : "Wallace Goldsborough",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "UNLV"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "41",
-            "cumulativePrestige" : "0",
-            "homeState" : "Nevada",
-            "ratPot" : "86",
-            "hometown" : "Paradise",
-            "ratTalent" : "72",
-            "baselinePrestige" : "75",
-            "coachingAbility" : "65",
-            "name" : "Neil Natsis",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "56",
-            "ratOff" : "79",
-            "cumulativePrestige" : "0",
-            "ratDef" : "63",
-            "homeState" : "American Samoa",
-            "ratPot" : "61",
-            "hometown" : "Malaloa",
-            "ratTalent" : "62",
-            "baselinePrestige" : "75",
-            "name" : "Howard Ellstrom",
-            "contractYear" : "1"
-          },
-          "name" : "San Diego State",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "BYU",
-          "prestige" : "80",
-          "hexColor" : "#00563C",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "58",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "76",
-            "hometown" : "San Antonio",
-            "ratTalent" : "67",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "72",
-            "name" : "AJ Paluso",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "UTAH"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "51",
-            "cumulativePrestige" : "0",
-            "homeState" : "Michigan",
-            "ratPot" : "96",
-            "hometown" : "Dearborn Heights",
-            "ratTalent" : "85",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "70",
-            "name" : "Ricky Dunphe",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "53",
-            "ratOff" : "66",
-            "cumulativePrestige" : "0",
-            "ratDef" : "50",
-            "homeState" : "Delaware",
-            "ratPot" : "70",
-            "hometown" : "Long Neck",
-            "ratTalent" : "45",
-            "baselinePrestige" : "70",
-            "name" : "Arturo Blight",
-            "contractYear" : "1"
-          },
-          "name" : "BYU",
-          "state" : "Utah"
-        },
-        {
-          "abbreviation" : "CSU",
-          "prestige" : "60",
-          "hexColor" : "#FFC700",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "33",
-            "cumulativePrestige" : "0",
-            "homeState" : "Virginia",
-            "ratPot" : "65",
-            "hometown" : "Franconia",
-            "ratTalent" : "66",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "62",
-            "name" : "Kyler Trachte",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "AF"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "50",
-            "cumulativePrestige" : "0",
-            "homeState" : "District of Columbia",
-            "ratPot" : "59",
-            "hometown" : "Foggy Bottom",
-            "ratTalent" : "56",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "68",
-            "name" : "Von Worthington",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "33",
-            "ratOff" : "59",
-            "cumulativePrestige" : "0",
-            "ratDef" : "57",
-            "homeState" : "Texas",
-            "ratPot" : "75",
-            "hometown" : "Brownsville",
-            "ratTalent" : "89",
-            "baselinePrestige" : "70",
-            "name" : "Blake McGlew",
-            "contractYear" : "1"
-          },
-          "name" : "Colorado State",
-          "state" : "Colorado"
-        },
-        {
-          "abbreviation" : "UNLV",
-          "prestige" : "55",
-          "hexColor" : "#30C808",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "32",
-            "cumulativePrestige" : "0",
             "homeState" : "California",
-            "ratPot" : "66",
-            "hometown" : "Chicago Park",
-            "ratTalent" : "82",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "59",
-            "name" : "Theo Duck",
+            "ratPot" : "52",
+            "hometown" : "Lakewood",
+            "ratTalent" : "74",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "77",
+            "name" : "Brady Korte",
             "contractYear" : "1"
           },
-          "rival" : [
-            "SDSU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "40",
-            "cumulativePrestige" : "0",
-            "homeState" : "Kentucky",
-            "ratPot" : "84",
-            "hometown" : "Union",
-            "ratTalent" : "69",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "72",
-            "name" : "Juwan Wide",
-            "contractYear" : "0"
-          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2021",
-            "age" : "49",
-            "ratOff" : "67",
-            "cumulativePrestige" : "0",
-            "ratDef" : "61",
-            "homeState" : "California",
-            "ratPot" : "61",
-            "hometown" : "Chino Hills",
-            "ratTalent" : "90",
-            "baselinePrestige" : "65",
-            "name" : "Justice Duhart",
-            "contractYear" : "0"
-          },
-          "name" : "Nevada Las Vegas",
-          "state" : "Nevada"
-        },
-        {
-          "abbreviation" : "WYO",
-          "prestige" : "60",
-          "hexColor" : "#004B97",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "56",
-            "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "65",
-            "hometown" : "Pettisville",
-            "ratTalent" : "59",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "71",
-            "name" : "Tae Gleisner",
-            "contractYear" : "2"
-          },
-          "rival" : [
-            "BOI"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "49",
-            "cumulativePrestige" : "0",
-            "homeState" : "Florida",
-            "ratPot" : "90",
-            "hometown" : "Hobe Sound",
-            "ratTalent" : "91",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "64",
-            "name" : "Kendall Polaski",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "39",
-            "ratOff" : "82",
-            "cumulativePrestige" : "0",
-            "ratDef" : "65",
-            "homeState" : "California",
-            "ratPot" : "88",
-            "hometown" : "South Whittier",
-            "ratTalent" : "91",
-            "baselinePrestige" : "65",
-            "name" : "Bryant Bachtell",
-            "contractYear" : "5"
-          },
-          "name" : "Wyoming",
-          "state" : "Wyoming"
-        },
-        {
-          "abbreviation" : "UNM",
-          "prestige" : "55",
-          "hexColor" : "#B5A172",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "50",
-            "cumulativePrestige" : "0",
-            "homeState" : "District of Columbia",
-            "ratPot" : "88",
-            "hometown" : "Southwest Washington",
-            "ratTalent" : "56",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "59",
-            "name" : "Mickey Bohannan",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "UTEP"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "48",
-            "cumulativePrestige" : "0",
-            "homeState" : "Colorado",
-            "ratPot" : "75",
-            "hometown" : "Nederland",
-            "ratTalent" : "67",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "72",
-            "name" : "Joel Verkuilen",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "32",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "71",
-            "homeState" : "Texas",
-            "ratPot" : "67",
-            "hometown" : "Highland Park",
-            "ratTalent" : "52",
-            "baselinePrestige" : "55",
-            "name" : "Robert Desler",
-            "contractYear" : "3"
-          },
-          "name" : "New Mexico",
-          "state" : "New Mexico"
-        },
-        {
-          "abbreviation" : "UTEP",
-          "prestige" : "50",
-          "hexColor" : "#D1B07F",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "32",
-            "cumulativePrestige" : "0",
-            "homeState" : "Minnesota",
-            "ratPot" : "94",
-            "hometown" : "Holdingford",
-            "ratTalent" : "65",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "56",
-            "name" : "Dominic Urry",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "UNM"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "40",
-            "cumulativePrestige" : "0",
-            "homeState" : "Washington",
-            "ratPot" : "82",
-            "hometown" : "Entiat",
-            "ratTalent" : "89",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "65",
-            "name" : "Omarr Val",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "45",
-            "ratOff" : "58",
-            "cumulativePrestige" : "0",
-            "ratDef" : "69",
-            "homeState" : "Maine",
-            "ratPot" : "54",
-            "hometown" : "Patten",
-            "ratTalent" : "87",
-            "baselinePrestige" : "55",
-            "name" : "Solomon Billesbach",
-            "contractYear" : "3"
-          },
-          "name" : "UTEP",
-          "state" : "Texas"
-        },
-        {
-          "abbreviation" : "BOI",
-          "prestige" : "75",
-          "hexColor" : "#EF1216",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "57",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Carolina",
-            "ratPot" : "57",
-            "hometown" : "Blacksburg",
-            "ratTalent" : "51",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "73",
-            "name" : "Edward Collar",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "WYO"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "49",
-            "cumulativePrestige" : "0",
-            "homeState" : "Illinois",
-            "ratPot" : "79",
-            "hometown" : "Wheaton",
-            "ratTalent" : "60",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "66",
-            "name" : "Kesean Myslinski",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "58",
+            "age" : "34",
             "ratOff" : "56",
             "cumulativePrestige" : "0",
-            "ratDef" : "59",
-            "homeState" : "Maryland",
-            "ratPot" : "85",
-            "hometown" : "Fort Washington",
-            "ratTalent" : "73",
-            "baselinePrestige" : "50",
-            "name" : "Anthony Sanderlin",
+            "ratDef" : "69",
+            "homeState" : "New Jersey",
+            "ratPot" : "56",
+            "hometown" : "Dayton",
+            "ratTalent" : "94",
+            "baselinePrestige" : "70",
+            "name" : "Jakobi Gwinner",
+            "contractYear" : "1"
+          },
+          "name" : "Louisville",
+          "state" : "Kentucky"
+        },
+        {
+          "abbreviation" : "CIN",
+          "prestige" : "65",
+          "hexColor" : "#F0E8C4",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "50",
+            "cumulativePrestige" : "0",
+            "homeState" : "Iowa",
+            "ratPot" : "60",
+            "hometown" : "Onawa",
+            "ratTalent" : "94",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "62",
+            "name" : "Albert Powell",
             "contractYear" : "0"
           },
-          "name" : "Boise State",
-          "state" : "Idaho"
+          "rival" : [
+            "LOU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "42",
+            "cumulativePrestige" : "0",
+            "homeState" : "Maine",
+            "ratPot" : "52",
+            "hometown" : "Lincoln",
+            "ratTalent" : "57",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "75",
+            "name" : "Chaz Keliipio",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "32",
+            "ratOff" : "67",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Pennsylvania",
+            "ratPot" : "80",
+            "hometown" : "Monessen",
+            "ratTalent" : "79",
+            "baselinePrestige" : "70",
+            "name" : "Davon Sakurai",
+            "contractYear" : "4"
+          },
+          "name" : "Cincinnati",
+          "state" : "Ohio"
+        },
+        {
+          "abbreviation" : "RUT",
+          "prestige" : "50",
+          "hexColor" : "#336698",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "New Hampshire",
+            "ratPot" : "65",
+            "hometown" : "Carroll",
+            "ratTalent" : "81",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "65",
+            "name" : "Carlos Zecher",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "SYR"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "56",
+            "cumulativePrestige" : "0",
+            "homeState" : "Arkansas",
+            "ratPot" : "83",
+            "hometown" : "Norman",
+            "ratTalent" : "62",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "71",
+            "name" : "Cartwright Gasco",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "32",
+            "ratOff" : "66",
+            "cumulativePrestige" : "0",
+            "ratDef" : "56",
+            "homeState" : "Montana",
+            "ratPot" : "91",
+            "hometown" : "Three Forks",
+            "ratTalent" : "87",
+            "baselinePrestige" : "60",
+            "name" : "Barrett Scheuerman",
+            "contractYear" : "1"
+          },
+          "name" : "Rutgers",
+          "state" : "New Jersey"
+        },
+        {
+          "abbreviation" : "BC",
+          "prestige" : "70",
+          "hexColor" : "#FFDE00",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "43",
+            "cumulativePrestige" : "0",
+            "homeState" : "Mississippi",
+            "ratPot" : "99",
+            "hometown" : "Elliott",
+            "ratTalent" : "59",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "71",
+            "name" : "Isaiah Vannatta",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "CONN"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "93",
+            "hometown" : "Satellite Beach",
+            "ratTalent" : "61",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "69",
+            "name" : "Ron Fama",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "43",
+            "ratOff" : "66",
+            "cumulativePrestige" : "0",
+            "ratDef" : "61",
+            "homeState" : "Alabama",
+            "ratPot" : "87",
+            "hometown" : "Five Points South",
+            "ratTalent" : "70",
+            "baselinePrestige" : "60",
+            "name" : "Matthew Logalbo",
+            "contractYear" : "5"
+          },
+          "name" : "Boston College",
+          "state" : "Massachussetts"
+        },
+        {
+          "abbreviation" : "VT",
+          "prestige" : "80",
+          "hexColor" : "#633194",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "58",
+            "cumulativePrestige" : "0",
+            "homeState" : "Nevada",
+            "ratPot" : "61",
+            "hometown" : "Johnson Lane",
+            "ratTalent" : "94",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "63",
+            "name" : "Tariq Genas",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "WVU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "44",
+            "cumulativePrestige" : "0",
+            "homeState" : "Michigan",
+            "ratPot" : "95",
+            "hometown" : "Flat Rock",
+            "ratTalent" : "70",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "63",
+            "name" : "Andy Stansbery",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "57",
+            "ratOff" : "60",
+            "cumulativePrestige" : "0",
+            "ratDef" : "65",
+            "homeState" : "Arizona",
+            "ratPot" : "51",
+            "hometown" : "Saint Michaels",
+            "ratTalent" : "77",
+            "baselinePrestige" : "55",
+            "name" : "Joseph Lauschus",
+            "contractYear" : "2"
+          },
+          "name" : "Virginia Tech",
+          "state" : "Virginia"
+        },
+        {
+          "abbreviation" : "PSU",
+          "prestige" : "90",
+          "hexColor" : "#007CC4",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "Nebraska",
+            "ratPot" : "62",
+            "hometown" : "Fort Calhoun",
+            "ratTalent" : "56",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "68",
+            "name" : "Donny McMeans",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "PITT"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "32",
+            "cumulativePrestige" : "0",
+            "homeState" : "New York",
+            "ratPot" : "88",
+            "hometown" : "Brinckerhoff",
+            "ratTalent" : "55",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "64",
+            "name" : "Jeremiah Dudash",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "47",
+            "ratOff" : "69",
+            "cumulativePrestige" : "0",
+            "ratDef" : "65",
+            "homeState" : "Idaho",
+            "ratPot" : "78",
+            "hometown" : "Priest River",
+            "ratTalent" : "89",
+            "baselinePrestige" : "50",
+            "name" : "Rob Schuchat",
+            "contractYear" : "4"
+          },
+          "name" : "Penn State",
+          "state" : "Pennsylvania"
         }
       ],
-      "confFullName" : "Mountain West",
-      "confPrestige" : "70",
-      "confName" : "MWC"
-    },
+      "confFullName" : "Big East",
+      "confPrestige" : "75",
+      "confName" : "BIGE"
+    },  
+
     {
       "confTeams" : [
         {
@@ -5686,573 +5121,7 @@
       "confPrestige" : "60",
       "confName" : "MAC"
     },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "TROY",
-          "prestige" : "60",
-          "hexColor" : "#E75C2D",
-          "rivalryNames" : {
 
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "47",
-            "cumulativePrestige" : "0",
-            "homeState" : "New York",
-            "ratPot" : "79",
-            "hometown" : "Ocean Beach",
-            "ratTalent" : "55",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "79",
-            "name" : "Lawrence Ethridge",
-            "contractYear" : "2"
-          },
-          "rival" : [
-            "TULA"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "49",
-            "cumulativePrestige" : "0",
-            "homeState" : "Nebraska",
-            "ratPot" : "84",
-            "hometown" : "David City",
-            "ratTalent" : "70",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "78",
-            "name" : "Mack Jenkinson",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "52",
-            "ratOff" : "61",
-            "cumulativePrestige" : "0",
-            "ratDef" : "71",
-            "homeState" : "Oregon",
-            "ratPot" : "83",
-            "hometown" : "Chemult",
-            "ratTalent" : "72",
-            "baselinePrestige" : "70",
-            "name" : "Desmond Cowden",
-            "contractYear" : "5"
-          },
-          "name" : "Troy",
-          "state" : "Alabama"
-        },
-        {
-          "abbreviation" : "FIU",
-          "prestige" : "55",
-          "hexColor" : "#347C17",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "59",
-            "cumulativePrestige" : "0",
-            "homeState" : "Alaska",
-            "ratPot" : "96",
-            "hometown" : "Petersburg",
-            "ratTalent" : "71",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "76",
-            "name" : "Warren Braly",
-            "contractYear" : "2"
-          },
-          "rival" : [
-            "FAU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "57",
-            "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "72",
-            "hometown" : "Hollansburg",
-            "ratTalent" : "54",
-            "baselinePrestige" : "70",
-            "coachingAbility" : "70",
-            "name" : "Rodrigo Darter",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "58",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "70",
-            "homeState" : "Utah",
-            "ratPot" : "66",
-            "hometown" : "Moab",
-            "ratTalent" : "64",
-            "baselinePrestige" : "70",
-            "name" : "Antwuan Cosca",
-            "contractYear" : "1"
-          },
-          "name" : "Florida International",
-          "state" : "Florida"
-        },
-        {
-          "abbreviation" : "MTSU",
-          "prestige" : "55",
-          "hexColor" : "#A82B3D",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "57",
-            "cumulativePrestige" : "0",
-            "homeState" : "Iowa",
-            "ratPot" : "84",
-            "hometown" : "Truro",
-            "ratTalent" : "88",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "70",
-            "name" : "Jaylon Wardwell",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "WKU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "50",
-            "cumulativePrestige" : "0",
-            "homeState" : "California",
-            "ratPot" : "78",
-            "hometown" : "Pacifica",
-            "ratTalent" : "63",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "57",
-            "name" : "Donny Javed",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "32",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "67",
-            "homeState" : "Connecticut",
-            "ratPot" : "79",
-            "hometown" : "Pomfret Center",
-            "ratTalent" : "65",
-            "baselinePrestige" : "65",
-            "name" : "Paris Masucci",
-            "contractYear" : "2"
-          },
-          "name" : "Middle Tennessee State",
-          "state" : "Tennessee"
-        },
-        {
-          "abbreviation" : "ULM",
-          "prestige" : "55",
-          "hexColor" : "#FEBC11",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "43",
-            "cumulativePrestige" : "0",
-            "homeState" : "Virginia",
-            "ratPot" : "52",
-            "hometown" : "Aylett",
-            "ratTalent" : "64",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "63",
-            "name" : "Kane Pruitt",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "ULL"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "56",
-            "cumulativePrestige" : "0",
-            "homeState" : "Maryland",
-            "ratPot" : "91",
-            "hometown" : "Monrovia",
-            "ratTalent" : "69",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "68",
-            "name" : "Joey Rosebrook",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "34",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "56",
-            "homeState" : "West Virginia",
-            "ratPot" : "90",
-            "hometown" : "Cameron",
-            "ratTalent" : "59",
-            "baselinePrestige" : "65",
-            "name" : "Dana Murray",
-            "contractYear" : "0"
-          },
-          "name" : "Louisiana Monroe",
-          "state" : "Louisiana"
-        },
-        {
-          "abbreviation" : "ARST",
-          "prestige" : "60",
-          "hexColor" : "#016540",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "52",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Carolina",
-            "ratPot" : "66",
-            "hometown" : "Florence",
-            "ratTalent" : "88",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "63",
-            "name" : "Gareth Coste",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "NIU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "39",
-            "cumulativePrestige" : "0",
-            "homeState" : "Missouri",
-            "ratPot" : "67",
-            "hometown" : "Hughesville",
-            "ratTalent" : "88",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "76",
-            "name" : "Tyrell Lozoya",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "54",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "homeState" : "South Dakota",
-            "ratPot" : "69",
-            "hometown" : "Delmont",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "name" : "Rashad Perrett",
-            "contractYear" : "1"
-          },
-          "name" : "Arkansas State",
-          "state" : "Arkansas"
-        },
-        {
-          "abbreviation" : "FAU",
-          "prestige" : "45",
-          "hexColor" : "#DDDDFF",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "38",
-            "cumulativePrestige" : "0",
-            "homeState" : "Louisiana",
-            "ratPot" : "72",
-            "hometown" : "Grand Coteau",
-            "ratTalent" : "81",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "68",
-            "name" : "Danny Overfield",
-            "contractYear" : "2"
-          },
-          "rival" : [
-            "FIU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "51",
-            "cumulativePrestige" : "0",
-            "homeState" : "Vermont",
-            "ratPot" : "99",
-            "hometown" : "Wilmington",
-            "ratTalent" : "71",
-            "baselinePrestige" : "65",
-            "coachingAbility" : "66",
-            "name" : "Tim Murphrey",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "50",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "54",
-            "homeState" : "Oregon",
-            "ratPot" : "66",
-            "hometown" : "Agness",
-            "ratTalent" : "88",
-            "baselinePrestige" : "65",
-            "name" : "Eric Silbaugh",
-            "contractYear" : "3"
-          },
-          "name" : "Florida Atlantic",
-          "state" : "Florida"
-        },
-        {
-          "abbreviation" : "ULL",
-          "prestige" : "55",
-          "hexColor" : "#EEE8B7",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "39",
-            "cumulativePrestige" : "0",
-            "homeState" : "Washington",
-            "ratPot" : "50",
-            "hometown" : "Parkland",
-            "ratTalent" : "49",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "70",
-            "name" : "Keenan Seeliger",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "ULM"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "59",
-            "cumulativePrestige" : "0",
-            "homeState" : "Maine",
-            "ratPot" : "75",
-            "hometown" : "Corinna",
-            "ratTalent" : "92",
-            "baselinePrestige" : "60",
-            "coachingAbility" : "74",
-            "name" : "Drew Holmers",
-            "contractYear" : "2"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "55",
-            "ratOff" : "70",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Washington",
-            "ratPot" : "82",
-            "hometown" : "Lopez Island",
-            "ratTalent" : "51",
-            "baselinePrestige" : "60",
-            "name" : "Wilfredo Yarber",
-            "contractYear" : "1"
-          },
-          "name" : "Louisiana",
-          "state" : "Louisiana"
-        },
-        {
-          "abbreviation" : "WKU",
-          "prestige" : "55",
-          "hexColor" : "#194896",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "57",
-            "cumulativePrestige" : "0",
-            "homeState" : "Kansas",
-            "ratPot" : "80",
-            "hometown" : "Rosedale",
-            "ratTalent" : "49",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "71",
-            "name" : "Jon Arntt",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "MTSU"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "44",
-            "cumulativePrestige" : "0",
-            "homeState" : "Ohio",
-            "ratPot" : "53",
-            "hometown" : "Vermilion",
-            "ratTalent" : "82",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "60",
-            "name" : "Gabe Knill",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "59",
-            "ratOff" : "61",
-            "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "homeState" : "California",
-            "ratPot" : "73",
-            "hometown" : "Yorba Linda",
-            "ratTalent" : "75",
-            "baselinePrestige" : "55",
-            "name" : "Reece Formey",
-            "contractYear" : "4"
-          },
-          "name" : "Western Kentucky",
-          "state" : "Kentucky"
-        },
-        {
-          "abbreviation" : "TULA",
-          "prestige" : "55",
-          "hexColor" : "#E8D4A3",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "1",
-            "startYear" : "2021",
-            "age" : "37",
-            "cumulativePrestige" : "0",
-            "homeState" : "South Carolina",
-            "ratPot" : "83",
-            "hometown" : "Due West",
-            "ratTalent" : "90",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "71",
-            "name" : "Rich Kolm",
-            "contractYear" : "0"
-          },
-          "rival" : [
-            "TROY"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "40",
-            "cumulativePrestige" : "0",
-            "homeState" : "Kansas",
-            "ratPot" : "89",
-            "hometown" : "Carbondale",
-            "ratTalent" : "52",
-            "baselinePrestige" : "55",
-            "coachingAbility" : "66",
-            "name" : "Leo Lowrie",
-            "contractYear" : "1"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "35",
-            "ratOff" : "67",
-            "cumulativePrestige" : "0",
-            "ratDef" : "62",
-            "homeState" : "Illinois",
-            "ratPot" : "51",
-            "hometown" : "Victoria",
-            "ratTalent" : "85",
-            "baselinePrestige" : "55",
-            "name" : "Jonathan Costa",
-            "contractYear" : "4"
-          },
-          "name" : "Tulane",
-          "state" : "Louisiana"
-        },
-        {
-          "abbreviation" : "NIU",
-          "prestige" : "65",
-          "hexColor" : "#FF4208",
-          "rivalryNames" : {
-
-          },
-          "offCoordinator" : {
-            "contractLength" : "2",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "North Dakota",
-            "ratPot" : "70",
-            "hometown" : "Bisbee",
-            "ratTalent" : "69",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "66",
-            "name" : "Blair Rishell",
-            "contractYear" : "1"
-          },
-          "rival" : [
-            "ARST"
-          ],
-          "defCoordinator" : {
-            "contractLength" : "3",
-            "startYear" : "2021",
-            "age" : "36",
-            "cumulativePrestige" : "0",
-            "homeState" : "Washington DC",
-            "ratPot" : "80",
-            "hometown" : "Washington",
-            "ratTalent" : "76",
-            "baselinePrestige" : "50",
-            "coachingAbility" : "68",
-            "name" : "Mason Barnes",
-            "contractYear" : "0"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "54",
-            "ratOff" : "47",
-            "cumulativePrestige" : "0",
-            "ratDef" : "66",
-            "homeState" : "Kansas",
-            "ratPot" : "81",
-            "hometown" : "Elbing",
-            "ratTalent" : "72",
-            "baselinePrestige" : "50",
-            "name" : "Dante Benzango",
-            "contractYear" : "0"
-          },
-          "name" : "Northern Illinois",
-          "state" : "Illinois"
-        }
-      ],
-      "confFullName" : "Sun Belt",
-      "confPrestige" : "55",
-      "confName" : "SBC"
-    },
     {
       "confTeams" : [
         {
@@ -6819,7 +5688,1141 @@
       "confFullName" : "Western Athletic",
       "confPrestige" : "55",
       "confName" : "WAC"
-    }
+    },
+      {
+      "confTeams" : [
+        {
+          "abbreviation" : "TROY",
+          "prestige" : "60",
+          "hexColor" : "#E75C2D",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "47",
+            "cumulativePrestige" : "0",
+            "homeState" : "New York",
+            "ratPot" : "79",
+            "hometown" : "Ocean Beach",
+            "ratTalent" : "55",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "79",
+            "name" : "Lawrence Ethridge",
+            "contractYear" : "2"
+          },
+          "rival" : [
+            "TULA"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Nebraska",
+            "ratPot" : "84",
+            "hometown" : "David City",
+            "ratTalent" : "70",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "78",
+            "name" : "Mack Jenkinson",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "52",
+            "ratOff" : "61",
+            "cumulativePrestige" : "0",
+            "ratDef" : "71",
+            "homeState" : "Oregon",
+            "ratPot" : "83",
+            "hometown" : "Chemult",
+            "ratTalent" : "72",
+            "baselinePrestige" : "70",
+            "name" : "Desmond Cowden",
+            "contractYear" : "5"
+          },
+          "name" : "Troy",
+          "state" : "Alabama"
+        },
+        {
+          "abbreviation" : "FIU",
+          "prestige" : "55",
+          "hexColor" : "#347C17",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "59",
+            "cumulativePrestige" : "0",
+            "homeState" : "Alaska",
+            "ratPot" : "96",
+            "hometown" : "Petersburg",
+            "ratTalent" : "71",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "76",
+            "name" : "Warren Braly",
+            "contractYear" : "2"
+          },
+          "rival" : [
+            "FAU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "57",
+            "cumulativePrestige" : "0",
+            "homeState" : "Ohio",
+            "ratPot" : "72",
+            "hometown" : "Hollansburg",
+            "ratTalent" : "54",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "70",
+            "name" : "Rodrigo Darter",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "58",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "70",
+            "homeState" : "Utah",
+            "ratPot" : "66",
+            "hometown" : "Moab",
+            "ratTalent" : "64",
+            "baselinePrestige" : "70",
+            "name" : "Antwuan Cosca",
+            "contractYear" : "1"
+          },
+          "name" : "Florida International",
+          "state" : "Florida"
+        },
+        {
+          "abbreviation" : "MTSU",
+          "prestige" : "55",
+          "hexColor" : "#A82B3D",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "57",
+            "cumulativePrestige" : "0",
+            "homeState" : "Iowa",
+            "ratPot" : "84",
+            "hometown" : "Truro",
+            "ratTalent" : "88",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "70",
+            "name" : "Jaylon Wardwell",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "WKU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "50",
+            "cumulativePrestige" : "0",
+            "homeState" : "California",
+            "ratPot" : "78",
+            "hometown" : "Pacifica",
+            "ratTalent" : "63",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "57",
+            "name" : "Donny Javed",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "32",
+            "ratOff" : "65",
+            "cumulativePrestige" : "0",
+            "ratDef" : "67",
+            "homeState" : "Connecticut",
+            "ratPot" : "79",
+            "hometown" : "Pomfret Center",
+            "ratTalent" : "65",
+            "baselinePrestige" : "65",
+            "name" : "Paris Masucci",
+            "contractYear" : "2"
+          },
+          "name" : "Middle Tennessee State",
+          "state" : "Tennessee"
+        },
+        {
+          "abbreviation" : "ULM",
+          "prestige" : "55",
+          "hexColor" : "#FEBC11",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "43",
+            "cumulativePrestige" : "0",
+            "homeState" : "Virginia",
+            "ratPot" : "52",
+            "hometown" : "Aylett",
+            "ratTalent" : "64",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "63",
+            "name" : "Kane Pruitt",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "ULL"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "56",
+            "cumulativePrestige" : "0",
+            "homeState" : "Maryland",
+            "ratPot" : "91",
+            "hometown" : "Monrovia",
+            "ratTalent" : "69",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "68",
+            "name" : "Joey Rosebrook",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "34",
+            "ratOff" : "65",
+            "cumulativePrestige" : "0",
+            "ratDef" : "56",
+            "homeState" : "West Virginia",
+            "ratPot" : "90",
+            "hometown" : "Cameron",
+            "ratTalent" : "59",
+            "baselinePrestige" : "65",
+            "name" : "Dana Murray",
+            "contractYear" : "0"
+          },
+          "name" : "Louisiana Monroe",
+          "state" : "Louisiana"
+        },
+        {
+          "abbreviation" : "ARST",
+          "prestige" : "60",
+          "hexColor" : "#016540",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "52",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Carolina",
+            "ratPot" : "66",
+            "hometown" : "Florence",
+            "ratTalent" : "88",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "63",
+            "name" : "Gareth Coste",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "NIU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "39",
+            "cumulativePrestige" : "0",
+            "homeState" : "Missouri",
+            "ratPot" : "67",
+            "hometown" : "Hughesville",
+            "ratTalent" : "88",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "76",
+            "name" : "Tyrell Lozoya",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "54",
+            "ratOff" : "65",
+            "cumulativePrestige" : "0",
+            "ratDef" : "58",
+            "homeState" : "South Dakota",
+            "ratPot" : "69",
+            "hometown" : "Delmont",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "name" : "Rashad Perrett",
+            "contractYear" : "1"
+          },
+          "name" : "Arkansas State",
+          "state" : "Arkansas"
+        },
+        {
+          "abbreviation" : "FAU",
+          "prestige" : "45",
+          "hexColor" : "#DDDDFF",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "38",
+            "cumulativePrestige" : "0",
+            "homeState" : "Louisiana",
+            "ratPot" : "72",
+            "hometown" : "Grand Coteau",
+            "ratTalent" : "81",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "68",
+            "name" : "Danny Overfield",
+            "contractYear" : "2"
+          },
+          "rival" : [
+            "FIU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "51",
+            "cumulativePrestige" : "0",
+            "homeState" : "Vermont",
+            "ratPot" : "99",
+            "hometown" : "Wilmington",
+            "ratTalent" : "71",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "66",
+            "name" : "Tim Murphrey",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "50",
+            "ratOff" : "65",
+            "cumulativePrestige" : "0",
+            "ratDef" : "54",
+            "homeState" : "Oregon",
+            "ratPot" : "66",
+            "hometown" : "Agness",
+            "ratTalent" : "88",
+            "baselinePrestige" : "65",
+            "name" : "Eric Silbaugh",
+            "contractYear" : "3"
+          },
+          "name" : "Florida Atlantic",
+          "state" : "Florida"
+        },
+        {
+          "abbreviation" : "ULL",
+          "prestige" : "55",
+          "hexColor" : "#EEE8B7",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "39",
+            "cumulativePrestige" : "0",
+            "homeState" : "Washington",
+            "ratPot" : "50",
+            "hometown" : "Parkland",
+            "ratTalent" : "49",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "70",
+            "name" : "Keenan Seeliger",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "ULM"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "59",
+            "cumulativePrestige" : "0",
+            "homeState" : "Maine",
+            "ratPot" : "75",
+            "hometown" : "Corinna",
+            "ratTalent" : "92",
+            "baselinePrestige" : "60",
+            "coachingAbility" : "74",
+            "name" : "Drew Holmers",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "55",
+            "ratOff" : "70",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Washington",
+            "ratPot" : "82",
+            "hometown" : "Lopez Island",
+            "ratTalent" : "51",
+            "baselinePrestige" : "60",
+            "name" : "Wilfredo Yarber",
+            "contractYear" : "1"
+          },
+          "name" : "Louisiana",
+          "state" : "Louisiana"
+        },
+        {
+          "abbreviation" : "WKU",
+          "prestige" : "55",
+          "hexColor" : "#194896",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "57",
+            "cumulativePrestige" : "0",
+            "homeState" : "Kansas",
+            "ratPot" : "80",
+            "hometown" : "Rosedale",
+            "ratTalent" : "49",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "71",
+            "name" : "Jon Arntt",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "MTSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "44",
+            "cumulativePrestige" : "0",
+            "homeState" : "Ohio",
+            "ratPot" : "53",
+            "hometown" : "Vermilion",
+            "ratTalent" : "82",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "60",
+            "name" : "Gabe Knill",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "59",
+            "ratOff" : "61",
+            "cumulativePrestige" : "0",
+            "ratDef" : "60",
+            "homeState" : "California",
+            "ratPot" : "73",
+            "hometown" : "Yorba Linda",
+            "ratTalent" : "75",
+            "baselinePrestige" : "55",
+            "name" : "Reece Formey",
+            "contractYear" : "4"
+          },
+          "name" : "Western Kentucky",
+          "state" : "Kentucky"
+        },
+        {
+          "abbreviation" : "TULA",
+          "prestige" : "55",
+          "hexColor" : "#E8D4A3",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "37",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Carolina",
+            "ratPot" : "83",
+            "hometown" : "Due West",
+            "ratTalent" : "90",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "71",
+            "name" : "Rich Kolm",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "TROY"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "40",
+            "cumulativePrestige" : "0",
+            "homeState" : "Kansas",
+            "ratPot" : "89",
+            "hometown" : "Carbondale",
+            "ratTalent" : "52",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "66",
+            "name" : "Leo Lowrie",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "35",
+            "ratOff" : "67",
+            "cumulativePrestige" : "0",
+            "ratDef" : "62",
+            "homeState" : "Illinois",
+            "ratPot" : "51",
+            "hometown" : "Victoria",
+            "ratTalent" : "85",
+            "baselinePrestige" : "55",
+            "name" : "Jonathan Costa",
+            "contractYear" : "4"
+          },
+          "name" : "Tulane",
+          "state" : "Louisiana"
+        },
+        {
+          "abbreviation" : "NIU",
+          "prestige" : "65",
+          "hexColor" : "#FF4208",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "North Dakota",
+            "ratPot" : "70",
+            "hometown" : "Bisbee",
+            "ratTalent" : "69",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "66",
+            "name" : "Blair Rishell",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "ARST"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "Washington DC",
+            "ratPot" : "80",
+            "hometown" : "Washington",
+            "ratTalent" : "76",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "68",
+            "name" : "Mason Barnes",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "54",
+            "ratOff" : "47",
+            "cumulativePrestige" : "0",
+            "ratDef" : "66",
+            "homeState" : "Kansas",
+            "ratPot" : "81",
+            "hometown" : "Elbing",
+            "ratTalent" : "72",
+            "baselinePrestige" : "50",
+            "name" : "Dante Benzango",
+            "contractYear" : "0"
+          },
+          "name" : "Northern Illinois",
+          "state" : "Illinois"
+        }
+      ],
+      "confFullName" : "Sun Belt",
+      "confPrestige" : "55",
+      "confName" : "SBC"
+    },  
+        {
+      "confTeams" : [
+        {
+          "abbreviation" : "UTAH",
+          "prestige" : "80",
+          "hexColor" : "#744143",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "41",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Carolina",
+            "ratPot" : "60",
+            "hometown" : "North Myrtle Beach",
+            "ratTalent" : "47",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "74",
+            "name" : "DJ Fothergill",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "BYU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "47",
+            "cumulativePrestige" : "0",
+            "homeState" : "Georgia",
+            "ratPot" : "50",
+            "hometown" : "Clarkston",
+            "ratTalent" : "83",
+            "baselinePrestige" : "80",
+            "coachingAbility" : "71",
+            "name" : "Devin Barnum",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "45",
+            "ratOff" : "67",
+            "cumulativePrestige" : "0",
+            "ratDef" : "64",
+            "homeState" : "West Virginia",
+            "ratPot" : "91",
+            "hometown" : "Institute",
+            "ratTalent" : "46",
+            "baselinePrestige" : "80",
+            "name" : "Danny Callas",
+            "contractYear" : "2"
+          },
+          "name" : "Utah",
+          "state" : "Utah"
+        },
+        {
+          "abbreviation" : "AF",
+          "prestige" : "70",
+          "hexColor" : "#FDC82F",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "36",
+            "cumulativePrestige" : "0",
+            "homeState" : "Massachusetts",
+            "ratPot" : "73",
+            "hometown" : "Banks Square",
+            "ratTalent" : "66",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "71",
+            "name" : "DJuan Vanhoose",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "CSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "58",
+            "cumulativePrestige" : "0",
+            "homeState" : "Virginia",
+            "ratPot" : "70",
+            "hometown" : "Montclair",
+            "ratTalent" : "68",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "69",
+            "name" : "William Clarke",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "51",
+            "ratOff" : "65",
+            "cumulativePrestige" : "0",
+            "ratDef" : "75",
+            "homeState" : "Mississippi",
+            "ratPot" : "72",
+            "hometown" : "New Albany",
+            "ratTalent" : "87",
+            "baselinePrestige" : "75",
+            "name" : "Kai Bargo",
+            "contractYear" : "5"
+          },
+          "name" : "Air Force",
+          "state" : "Colorado"
+        },
+        {
+          "abbreviation" : "SDSU",
+          "prestige" : "75",
+          "hexColor" : "#006000",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "48",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "74",
+            "hometown" : "Warrington",
+            "ratTalent" : "81",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "72",
+            "name" : "Wallace Goldsborough",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "UNLV"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "41",
+            "cumulativePrestige" : "0",
+            "homeState" : "Nevada",
+            "ratPot" : "86",
+            "hometown" : "Paradise",
+            "ratTalent" : "72",
+            "baselinePrestige" : "75",
+            "coachingAbility" : "65",
+            "name" : "Neil Natsis",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "56",
+            "ratOff" : "79",
+            "cumulativePrestige" : "0",
+            "ratDef" : "63",
+            "homeState" : "American Samoa",
+            "ratPot" : "61",
+            "hometown" : "Malaloa",
+            "ratTalent" : "62",
+            "baselinePrestige" : "75",
+            "name" : "Howard Ellstrom",
+            "contractYear" : "1"
+          },
+          "name" : "San Diego State",
+          "state" : "California"
+        },
+        {
+          "abbreviation" : "BYU",
+          "prestige" : "80",
+          "hexColor" : "#00563C",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "58",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "76",
+            "hometown" : "San Antonio",
+            "ratTalent" : "67",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "72",
+            "name" : "AJ Paluso",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "UTAH"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "51",
+            "cumulativePrestige" : "0",
+            "homeState" : "Michigan",
+            "ratPot" : "96",
+            "hometown" : "Dearborn Heights",
+            "ratTalent" : "85",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "70",
+            "name" : "Ricky Dunphe",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "53",
+            "ratOff" : "66",
+            "cumulativePrestige" : "0",
+            "ratDef" : "50",
+            "homeState" : "Delaware",
+            "ratPot" : "70",
+            "hometown" : "Long Neck",
+            "ratTalent" : "45",
+            "baselinePrestige" : "70",
+            "name" : "Arturo Blight",
+            "contractYear" : "1"
+          },
+          "name" : "BYU",
+          "state" : "Utah"
+        },
+        {
+          "abbreviation" : "CSU",
+          "prestige" : "60",
+          "hexColor" : "#FFC700",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "33",
+            "cumulativePrestige" : "0",
+            "homeState" : "Virginia",
+            "ratPot" : "65",
+            "hometown" : "Franconia",
+            "ratTalent" : "66",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "62",
+            "name" : "Kyler Trachte",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "AF"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "50",
+            "cumulativePrestige" : "0",
+            "homeState" : "District of Columbia",
+            "ratPot" : "59",
+            "hometown" : "Foggy Bottom",
+            "ratTalent" : "56",
+            "baselinePrestige" : "70",
+            "coachingAbility" : "68",
+            "name" : "Von Worthington",
+            "contractYear" : "1"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "33",
+            "ratOff" : "59",
+            "cumulativePrestige" : "0",
+            "ratDef" : "57",
+            "homeState" : "Texas",
+            "ratPot" : "75",
+            "hometown" : "Brownsville",
+            "ratTalent" : "89",
+            "baselinePrestige" : "70",
+            "name" : "Blake McGlew",
+            "contractYear" : "1"
+          },
+          "name" : "Colorado State",
+          "state" : "Colorado"
+        },
+        {
+          "abbreviation" : "UNLV",
+          "prestige" : "55",
+          "hexColor" : "#30C808",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "32",
+            "cumulativePrestige" : "0",
+            "homeState" : "California",
+            "ratPot" : "66",
+            "hometown" : "Chicago Park",
+            "ratTalent" : "82",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "59",
+            "name" : "Theo Duck",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "SDSU"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "40",
+            "cumulativePrestige" : "0",
+            "homeState" : "Kentucky",
+            "ratPot" : "84",
+            "hometown" : "Union",
+            "ratTalent" : "69",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "72",
+            "name" : "Juwan Wide",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "49",
+            "ratOff" : "67",
+            "cumulativePrestige" : "0",
+            "ratDef" : "61",
+            "homeState" : "California",
+            "ratPot" : "61",
+            "hometown" : "Chino Hills",
+            "ratTalent" : "90",
+            "baselinePrestige" : "65",
+            "name" : "Justice Duhart",
+            "contractYear" : "0"
+          },
+          "name" : "Nevada Las Vegas",
+          "state" : "Nevada"
+        },
+        {
+          "abbreviation" : "WYO",
+          "prestige" : "60",
+          "hexColor" : "#004B97",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "56",
+            "cumulativePrestige" : "0",
+            "homeState" : "Ohio",
+            "ratPot" : "65",
+            "hometown" : "Pettisville",
+            "ratTalent" : "59",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "71",
+            "name" : "Tae Gleisner",
+            "contractYear" : "2"
+          },
+          "rival" : [
+            "BOI"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Florida",
+            "ratPot" : "90",
+            "hometown" : "Hobe Sound",
+            "ratTalent" : "91",
+            "baselinePrestige" : "65",
+            "coachingAbility" : "64",
+            "name" : "Kendall Polaski",
+            "contractYear" : "2"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "39",
+            "ratOff" : "82",
+            "cumulativePrestige" : "0",
+            "ratDef" : "65",
+            "homeState" : "California",
+            "ratPot" : "88",
+            "hometown" : "South Whittier",
+            "ratTalent" : "91",
+            "baselinePrestige" : "65",
+            "name" : "Bryant Bachtell",
+            "contractYear" : "5"
+          },
+          "name" : "Wyoming",
+          "state" : "Wyoming"
+        },
+        {
+          "abbreviation" : "UNM",
+          "prestige" : "55",
+          "hexColor" : "#B5A172",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "3",
+            "startYear" : "2021",
+            "age" : "50",
+            "cumulativePrestige" : "0",
+            "homeState" : "District of Columbia",
+            "ratPot" : "88",
+            "hometown" : "Southwest Washington",
+            "ratTalent" : "56",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "59",
+            "name" : "Mickey Bohannan",
+            "contractYear" : "1"
+          },
+          "rival" : [
+            "UTEP"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "48",
+            "cumulativePrestige" : "0",
+            "homeState" : "Colorado",
+            "ratPot" : "75",
+            "hometown" : "Nederland",
+            "ratTalent" : "67",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "72",
+            "name" : "Joel Verkuilen",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "32",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "71",
+            "homeState" : "Texas",
+            "ratPot" : "67",
+            "hometown" : "Highland Park",
+            "ratTalent" : "52",
+            "baselinePrestige" : "55",
+            "name" : "Robert Desler",
+            "contractYear" : "3"
+          },
+          "name" : "New Mexico",
+          "state" : "New Mexico"
+        },
+        {
+          "abbreviation" : "UTEP",
+          "prestige" : "50",
+          "hexColor" : "#D1B07F",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "32",
+            "cumulativePrestige" : "0",
+            "homeState" : "Minnesota",
+            "ratPot" : "94",
+            "hometown" : "Holdingford",
+            "ratTalent" : "65",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "56",
+            "name" : "Dominic Urry",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "UNM"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "40",
+            "cumulativePrestige" : "0",
+            "homeState" : "Washington",
+            "ratPot" : "82",
+            "hometown" : "Entiat",
+            "ratTalent" : "89",
+            "baselinePrestige" : "55",
+            "coachingAbility" : "65",
+            "name" : "Omarr Val",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "45",
+            "ratOff" : "58",
+            "cumulativePrestige" : "0",
+            "ratDef" : "69",
+            "homeState" : "Maine",
+            "ratPot" : "54",
+            "hometown" : "Patten",
+            "ratTalent" : "87",
+            "baselinePrestige" : "55",
+            "name" : "Solomon Billesbach",
+            "contractYear" : "3"
+          },
+          "name" : "UTEP",
+          "state" : "Texas"
+        },
+        {
+          "abbreviation" : "BOI",
+          "prestige" : "75",
+          "hexColor" : "#EF1216",
+          "rivalryNames" : {
+
+          },
+          "offCoordinator" : {
+            "contractLength" : "1",
+            "startYear" : "2021",
+            "age" : "57",
+            "cumulativePrestige" : "0",
+            "homeState" : "South Carolina",
+            "ratPot" : "57",
+            "hometown" : "Blacksburg",
+            "ratTalent" : "51",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "73",
+            "name" : "Edward Collar",
+            "contractYear" : "0"
+          },
+          "rival" : [
+            "WYO"
+          ],
+          "defCoordinator" : {
+            "contractLength" : "2",
+            "startYear" : "2021",
+            "age" : "49",
+            "cumulativePrestige" : "0",
+            "homeState" : "Illinois",
+            "ratPot" : "79",
+            "hometown" : "Wheaton",
+            "ratTalent" : "60",
+            "baselinePrestige" : "50",
+            "coachingAbility" : "66",
+            "name" : "Kesean Myslinski",
+            "contractYear" : "0"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2021",
+            "age" : "58",
+            "ratOff" : "56",
+            "cumulativePrestige" : "0",
+            "ratDef" : "59",
+            "homeState" : "Maryland",
+            "ratPot" : "85",
+            "hometown" : "Fort Washington",
+            "ratTalent" : "73",
+            "baselinePrestige" : "50",
+            "name" : "Anthony Sanderlin",
+            "contractYear" : "0"
+          },
+          "name" : "Boise State",
+          "state" : "Idaho"
+        }
+      ],
+      "confFullName" : "Mountain West",
+      "confPrestige" : "70",
+      "confName" : "MWC"
+    },
   ],
     "bowlGames" : [
     "Rose Bowl",
