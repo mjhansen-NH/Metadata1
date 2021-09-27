@@ -1,26 +1,26 @@
 {
   "promotionRoutes" : {
-    "NWST" : "LAKES",
-    "PLNS" : "COWBY",
-    "EAST" : "PACIF",
-    "MATL" : "NORTH",
-    "MRVR" : "MOUNT",
-    "GULF" : "SOUTH"
+    "WAC" : "PAC10",
+    "SBC" : "SEC",
+    "MAC" : "BIG10",
+    "CUSA" : "BIG8",
+    "BIGE" : "ACC",
+    "MWC" : "SWC"
   },
   "relegationRoutes" : {
-    "NORTH" : "MATL",
-    "PACIF" : "EAST",
-    "LAKES" : "NWST",
-    "COWBY" : "PLNS",
-    "SOUTH" : "GULF",
-    "MOUNT" : "MRVR"
+    "PAC10" : "WAC",
+    "SEC" : "SBC",
+    "BIG10" : "MAC",
+    "BIG8" : "CUSA",
+    "ACC" : "BIGE",
+    "SWC" : "MWC"
   },
   "conferences" : [
     {
       "confTeams" : [
         {
-          "abbreviation" : “ORE”,
-          "prestige" : “90”,
+          "abbreviation" : "ORE",
+          "prestige" : "90",
           "hexColor" : "#F47321",
           "rivalryNames" : {
 
@@ -40,7 +40,7 @@
             "contractYear" : "2"
           },
           "rival" : [
-            “ORST”
+            "ORST"
           ],
           "defCoordinator" : {
             "contractLength" : "2",
