@@ -16,8 +16,7 @@
     "SWC" : "MWC"
   },
   "conferences" : [
- 
-    {
+      {
       "confTeams" : [
         {
           "abbreviation" : "FSU",
